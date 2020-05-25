@@ -1,4 +1,5 @@
 # ゲームデザイン実習(デジタルアーツ東京2020年度生)
+- [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tm4AUjwjQr72mPJg?e=bcG9Lr)
 
 # 1回目
 ## ガイダンス
