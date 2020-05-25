@@ -2,14 +2,11 @@
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tm4AUjwjQr72mPJg?e=bcG9Lr)
 
 # 1回目
-## 講義メモ
-- https://docs.google.com/document/d/1iKEY2fyk483ayLxnpG648OfvVIOeDsQ-f3QJbabE0EA/
-
 ## 内容
 - [ガイダンス](https://docs.google.com/presentation/d/1zaVqeDVWHGBkl5IKj1-pAHpyRRDj8gL7F2r5p9ANK7o/)
 - [卒業後の見通しを考えよう](a01卒業後の見通しを考えよう.md)
   - 参考： [制作において心がけて欲しいこと](01-note.md)
-- 環境の構築
+- [環境の構築](https://docs.google.com/document/d/1iKEY2fyk483ayLxnpG648OfvVIOeDsQ-f3QJbabE0EA/)
   - Gmailアドレスの取得。**学校の活動専用**のアカウントを作成する
     - Gmailは、携帯番号の設定が必要です。２段階認証で必要なだけで、営業電話がかかってきたり、番号が他に漏れることはありません
     - Gmail / GitHub
