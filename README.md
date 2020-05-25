@@ -1,9 +1,9 @@
-# ゲームデザイン実習(デジタルアーツ東京2020年度生)
+# 基礎実習(ゲームデザイン実習) デジタルアーツ東京2020年度生
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tm4AUjwjQr72mPJg?e=bcG9Lr)
 
 # 1回目
 ## 講義メモ
-- https://docs.google.com/document/d/1RgzMbtTLhVs-uPG5cSztC5-UFjKLRssgYLCLe1MtvJY/
+- https://docs.google.com/document/d/1iKEY2fyk483ayLxnpG648OfvVIOeDsQ-f3QJbabE0EA/
 
 ## 内容
 - [ガイダンス](https://docs.google.com/presentation/d/1zaVqeDVWHGBkl5IKj1-pAHpyRRDj8gL7F2r5p9ANK7o/)
