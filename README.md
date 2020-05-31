@@ -2,7 +2,6 @@
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tm4AUjwjQr72mPJg?e=bcG9Lr)
 
 # 参考資料
-- [質問の仕方　動画](https://www.youtube.com/watch?v=nE6FesKgPio&list=PLdRD_lOLS4j3FvkAqc5ddKHEH25GYMH3f)
 - [ライブ配信]()
 - [質問]()
 
@@ -31,4 +30,4 @@
   - 簡単な世界観など(あれば)    
   - **プレイヤーは、何を制限されるのか？　を考えるとまとめやすい**
 - 参考： https://docs.google.com/drawings/d/1mGXGcm8mcXUBmP3rqVQheMDZLl3jd86qapLr7NChwjU/
-
+- [質問の仕方　動画](https://www.youtube.com/watch?v=nE6FesKgPio&list=PLdRD_lOLS4j3FvkAqc5ddKHEH25GYMH3f)で画面共有の練習
