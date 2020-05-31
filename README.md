@@ -3,6 +3,7 @@
 
 # ライブ配信
 - [ライブ配信](https://meet.google.com/sww-akju-yph)
+- [質問](https://meet.google.com/sww-akju-yph)
 
 # 1回目
 ## 内容
