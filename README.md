@@ -2,7 +2,7 @@
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tm4AUjwjQr72mPJg?e=bcG9Lr)
 
 # ライブ配信
-- [https://meet.google.com/sww-akju-yph](ライブ配信)
+- [ライブ配信](https://meet.google.com/sww-akju-yph)
 
 # 1回目
 ## 内容
