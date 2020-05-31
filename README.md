@@ -1,6 +1,9 @@
 # 基礎実習(ゲームデザイン実習) デジタルアーツ東京2020年度生
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tm4AUjwjQr72mPJg?e=bcG9Lr)
 
+# ライブ配信
+- [https://meet.google.com/sww-akju-yph](ライブ配信)
+
 # 1回目
 ## 内容
 - [ガイダンス](https://docs.google.com/presentation/d/1zaVqeDVWHGBkl5IKj1-pAHpyRRDj8gL7F2r5p9ANK7o/)
