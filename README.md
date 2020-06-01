@@ -8,7 +8,7 @@
 
 # 1回目
 ## 内容
-- [ガイダンス](https://docs.google.com/presentation/d/1zaVqeDVWHGBkl5IKj1-pAHpyRRDj8gL7F2r5p9ANK7o/)
+- [ガイダンス](https://docs.google.com/presentation/d/1-N9I50H3w64zj32ngfojcXPu7f83zeDYag3eZjlF2dA/)
 - [卒業後の見通しを考えよう](a01卒業後の見通しを考えよう.md)
   - 参考： [制作において心がけて欲しいこと](01-note.md)
 - [環境の構築](https://docs.google.com/document/d/1iKEY2fyk483ayLxnpG648OfvVIOeDsQ-f3QJbabE0EA/)
