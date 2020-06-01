@@ -9,8 +9,8 @@
 # 1回目
 ## 内容
 - [ガイダンス](https://docs.google.com/presentation/d/1-N9I50H3w64zj32ngfojcXPu7f83zeDYag3eZjlF2dA/)
-- [卒業後の見通しを考えよう](a01卒業後の見通しを考えよう.md)
   - 参考： [制作において心がけて欲しいこと](https://github.com/dat19/design/blob/master/01-note.md)
+  - [卒業後の見通しを考えよう](a01卒業後の見通しを考えよう.md)
 - [環境の構築](https://docs.google.com/document/d/1iKEY2fyk483ayLxnpG648OfvVIOeDsQ-f3QJbabE0EA/)
   - Gmailアドレスの取得。**学校の活動専用**のアカウントを作成する
     - Gmailは、携帯番号の設定が必要です。２段階認証で必要なだけで、営業電話がかかってきたり、番号が他に漏れることはありません
