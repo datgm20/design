@@ -21,6 +21,8 @@
   - ゲームの定義 [Capm Network. ゲーム理論](http://capm-network.com/?tag=%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96)
   - [ゲームの定義や要素からミニゲームを考える](https://docs.google.com/presentation/d/1_psbxg6vPk21C3nAcytyVJm8QTYr-G7AV1qAtjcRclg/)
   - [参考：Unity1週間ゲームジャム　クリエイターズLT](https://www.youtube.com/watch?v=-qWwYVWgczA&feature=emb_logo)
+    - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)
+    - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)
 - 演習：ミニゲームを考えてみよう
   - サムネイルを描く
   - 操作方法：unityroomを参考に、キーやマウスなど、どうやって動かすのかを書く
