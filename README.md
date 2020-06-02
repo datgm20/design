@@ -2,8 +2,8 @@
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tm4AUjwjQr72mPJg?e=bcG9Lr)
 
 # 参考資料
-- [ライブ配信]()
-- [質問]()
+- [ライブ配信](.)
+- [質問](.)
 
 
 # 1回目
