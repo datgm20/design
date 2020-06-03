@@ -3,7 +3,7 @@
 
 # 参考資料
 - ライブ配信
-- 質問
+- [質問](https://meet.google.com/ibq-wbsz-vha)
 
 
 # 1回目
