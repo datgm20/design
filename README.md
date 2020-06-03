@@ -23,6 +23,9 @@
   - 作業用フォルダーの作成
   - Googleドキュメントでノートをとる
 - [キー入力練習](https://www.e-typing.ne.jp/)
+
+
+# 2回目
 - ゲームデザイン概論(1)
   - ゲームの定義 [Capm Network. ゲーム理論](http://capm-network.com/?tag=%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96)
   - [ゲームの定義や要素からミニゲームを考える](https://docs.google.com/presentation/d/1_psbxg6vPk21C3nAcytyVJm8QTYr-G7AV1qAtjcRclg/)
