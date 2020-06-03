@@ -5,6 +5,9 @@
 - ライブ配信
 - [質問](https://meet.google.com/ibq-wbsz-vha)
 - [キー入力スコア報告](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/)
+  - 授業ページの左上の丸い矢印(再読み込み)をクリック
+  - キー入力スコア報告を右クリックして、新しいタブで開く
+  - 自分の行に、記録した最高スコアを入力
 
 # 1回目
 ## 内容
