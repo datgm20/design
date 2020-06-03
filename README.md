@@ -4,7 +4,7 @@
 # 参考資料
 - ライブ配信
 - [質問](https://meet.google.com/ibq-wbsz-vha)
-
+- [キー入力スコア報告](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/)
 
 # 1回目
 ## 内容
