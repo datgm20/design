@@ -3,7 +3,7 @@
 
 # 参考資料
 - ライブ配信
-- [質問](https://meet.google.com/ibq-wbsz-vha)
+- [質問](https://meet.google.com/dyf-fsns-kou)
 - [キー入力スコア報告](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/)
   - 授業ページの左上の丸い矢印(再読み込み)をクリック
   - キー入力スコア報告を右クリックして、新しいタブで開く
