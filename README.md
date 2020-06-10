@@ -23,7 +23,7 @@
   - 作業用フォルダーの作成
   - Googleドキュメントでノートをとる
 - [キー入力練習](https://www.e-typing.ne.jp/)
-
+  - [結果をここに報告](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/)
 
 # 2回目
 - ゲームデザイン概論(1)
