@@ -9,22 +9,6 @@
   - キー入力スコア報告を右クリックして、新しいタブで開く
   - 自分の行に、記録した最高スコアを入力
 
-# 1回目
-## 内容
-- [ガイダンス](https://docs.google.com/presentation/d/1-N9I50H3w64zj32ngfojcXPu7f83zeDYag3eZjlF2dA/)
-  - 参考： [制作において心がけて欲しいこと](https://github.com/dat19/design/blob/master/01-note.md)
-  - [卒業後の見通しを考えよう](a01卒業後の見通しを考えよう.md)
-- [質問の準備　動画](https://www.youtube.com/watch?v=nE6FesKgPio&list=PLdRD_lOLS4j3FvkAqc5ddKHEH25GYMH3f)で画面共有の練習
-- [環境の構築](https://docs.google.com/document/d/1iKEY2fyk483ayLxnpG648OfvVIOeDsQ-f3QJbabE0EA/)
-  - Gmailアドレスの取得。**学校の活動専用**のアカウントを作成する
-    - Gmailは、携帯番号の設定が必要です。２段階認証で必要なだけで、営業電話がかかってきたり、番号が他に漏れることはありません
-    - Gmail / GitHub
-  - Windowsの基本操作
-  - 作業用フォルダーの作成
-  - Googleドキュメントでノートをとる
-- [キー入力練習](https://www.e-typing.ne.jp/)
-  - [結果をここに報告](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/)
-
 # 2回目
 - ゲームデザイン概論(1)
   - ゲームの定義 [Capm Network. ゲーム理論](http://capm-network.com/?tag=%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96)
@@ -43,4 +27,20 @@
   - **プレイヤーは、何を制限されるのか？　を考えるとまとめやすい**
 - 参考： https://docs.google.com/drawings/d/1mGXGcm8mcXUBmP3rqVQheMDZLl3jd86qapLr7NChwjU/
 
+
+# 1回目
+## 内容
+- [ガイダンス](https://docs.google.com/presentation/d/1-N9I50H3w64zj32ngfojcXPu7f83zeDYag3eZjlF2dA/)
+  - 参考： [制作において心がけて欲しいこと](https://github.com/dat19/design/blob/master/01-note.md)
+  - [卒業後の見通しを考えよう](a01卒業後の見通しを考えよう.md)
+- [質問の準備　動画](https://www.youtube.com/watch?v=nE6FesKgPio&list=PLdRD_lOLS4j3FvkAqc5ddKHEH25GYMH3f)で画面共有の練習
+- [環境の構築](https://docs.google.com/document/d/1iKEY2fyk483ayLxnpG648OfvVIOeDsQ-f3QJbabE0EA/)
+  - Gmailアドレスの取得。**学校の活動専用**のアカウントを作成する
+    - Gmailは、携帯番号の設定が必要です。２段階認証で必要なだけで、営業電話がかかってきたり、番号が他に漏れることはありません
+    - Gmail / GitHub
+  - Windowsの基本操作
+  - 作業用フォルダーの作成
+  - Googleドキュメントでノートをとる
+- [キー入力練習](https://www.e-typing.ne.jp/)
+  - [結果をここに報告](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/)
 
