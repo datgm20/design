@@ -26,6 +26,7 @@
     - 何をしたらいけないのか
   - 簡単な世界観など(あれば)    
   - **プレイヤーは、何を制限されるのか？　を考えるとまとめやすい**
+  - [ドキュメントの共有URLの提出先](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing)
 - 参考： https://docs.google.com/drawings/d/1mGXGcm8mcXUBmP3rqVQheMDZLl3jd86qapLr7NChwjU/
 
 
