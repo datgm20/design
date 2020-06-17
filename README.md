@@ -22,7 +22,7 @@
     - gmail を開いて、右上のGoogleアプリをクリックして、Google Driveを選択
     - 左上のスライド名の部分をクリックして、「ミニゲームを考える：氏名」に変更(例：ミニゲームを考える：田中　雄)
     - レイアウトボタンをクリックして、タイトルと本文を選択
-    
+    - 手書きのものは、スマホで撮影して、学校で作成したgmailに送信
   - サムネイルを描く
   - 操作方法：unityroomを参考に、キーやマウスなど、どうやって動かすのかを書く
     - 選択肢に対応するもの
@@ -31,13 +31,19 @@
     - 何をしたらいけないのか
   - 簡単な世界観など(あれば)    
   - **プレイヤーは、何を制限されるのか？　を考えるとまとめやすい**
-  - [ドキュメントの共有URLの提出先](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing)
 - 参考： https://docs.google.com/drawings/d/1mGXGcm8mcXUBmP3rqVQheMDZLl3jd86qapLr7NChwjU/
 - 参考： [nekogeek. カジュアルゲームの最新ゲームを50本遊んで、企画の方向を考えよう](https://nekogeek.jp/play-casual-games-a-lot/)
   - [ArtStation](https://www.artstation.com/)
 - 画像取り込み
   - CamScan  [Android](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=ja) / [iOS](https://apps.apple.com/jp/app/camscanner-%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%A2%E3%83%97%E3%83%AA-pdf-%E5%A4%89%E6%8F%9B-ocr/id388627783)
 
+## 提出方法
+- 作成したスライドの右上の 共有 をクリック
+- リンクを取得の下にある「リンクを知っている全員に変更」をクリック
+- リンクをコピー をクリック
+- 完了 をクリック
+- [ドキュメントの共有URLの提出先](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing) を開く
+- 自分の名前の右の欄に、右クリックして貼り付け
 
 # 1回目
 ## 内容
