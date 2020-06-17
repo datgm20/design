@@ -28,6 +28,8 @@
   - **プレイヤーは、何を制限されるのか？　を考えるとまとめやすい**
   - [ドキュメントの共有URLの提出先](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing)
 - 参考： https://docs.google.com/drawings/d/1mGXGcm8mcXUBmP3rqVQheMDZLl3jd86qapLr7NChwjU/
+- 画像取り込み
+  - CamScan  [Android](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=ja) / [iOS](https://apps.apple.com/jp/app/camscanner-%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%A2%E3%83%97%E3%83%AA-pdf-%E5%A4%89%E6%8F%9B-ocr/id388627783)
 
 
 # 1回目
