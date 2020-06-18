@@ -9,6 +9,18 @@
   - キー入力スコア報告を右クリックして、新しいタブで開く
   - 自分の行に、記録した最高スコアを入力
 
+# 3回目
+## 先週のミニゲームの企画書の提出(まだやってない人)
+- 作成したスライドの右上の 共有 をクリック
+- リンクを取得の下にある「リンクを知っている全員に変更」をクリック
+- リンクをコピー をクリック
+- 完了 をクリック
+- [ドキュメントの共有URLの提出先](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing) を開く
+- 自分の名前の右の欄に、右クリックして貼り付け
+
+## 予定
+
+
 # 2回目
 - ゲームデザイン概論(1)
   - [アンケート ゲームに必要なものとは？](https://docs.google.com/forms/d/e/1FAIpQLScM31NloHp6Htd3xH2VX8zl4CNuGLt_2NH6whMiapisjZam4A/viewform?usp=sf_link)
@@ -36,14 +48,6 @@
   - [ArtStation](https://www.artstation.com/)
 - 画像取り込み
   - CamScan  [Android](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=ja) / [iOS](https://apps.apple.com/jp/app/camscanner-%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%A2%E3%83%97%E3%83%AA-pdf-%E5%A4%89%E6%8F%9B-ocr/id388627783)
-
-## 提出方法
-- 作成したスライドの右上の 共有 をクリック
-- リンクを取得の下にある「リンクを知っている全員に変更」をクリック
-- リンクをコピー をクリック
-- 完了 をクリック
-- [ドキュメントの共有URLの提出先](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing) を開く
-- 自分の名前の右の欄に、右クリックして貼り付け
 
 # 1回目
 ## 内容
