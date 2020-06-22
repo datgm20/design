@@ -19,6 +19,89 @@
 - 自分の名前の右の欄に、右クリックして貼り付け
 
 ## 予定
+- [基本的なゲームデザイン論](https://docs.google.com/document/d/1kAfX8-_TyGLNSCaSC4t5R4VafvQYte-Zx-p-pQlB-Tg/)
+
+### 演習A:ブレストをやってみよう
+- 列でグループを作る
+- 案をまとめるGoogleドキュメントを作成する
+  - 真ん中の人が、Googleドライブを開いて、Googleドキュメントを新規に作成
+  - タイトルを「03ブレスト」にする
+  - 右上の共有をクリックして、ユーザーやグループのところに、メンバー全員にGmailアドレスを入力してもらったら 送信(教員も入れる)
+  - メンバーは自分のGmailを開くと、招待メールが届くので、httpsから始まるリンクをクリック
+  - ドキュメントの上の方に、自分の名前を入力
+- ブレスト
+  - 最前列の人から、何か思いついたことを箇条書きで入力する
+  - 一人が入力を終えたら、隣の人がそこに書かれたことの案を発展させたことを追加で書き足したり、全然違う何か思いついたことを書き足す
+  - 以上を時間内で繰り返す
+  - 盛り上がってきたら、順番関係なく書き込んでもよい
+- 案の集約
+  - ブレストの下に「チーム企画概要」という見出しを作って、企画概要に関する項目を書いていく
+  - 企画概要の各項目を、ブレストで盛り上がった内容を元に埋めていく
+  - このフェーズでは出た案を全て使おうとは思わず、一番強いものから3つ程度で組み立ててみる
+
+教員へもドキュメントは共有済みなので、提出のための特別な操作は不要。
+
+---
+
+## 時間があれば
+
+## 形のデザイン
+- [形のデザイン](https://am1.jp/dat/design/design3-shape.pdf)の導入
+- 形だけで面白いものは作れる
+- 参考： [FOTORIA. 三分割法で写真の構図をバッチリ決定！イラストで撮影方法を解決](https://fotoria.net/ja/blog/bc/photo-shoot-techniques/sc/composition/ar/rule-of-thirds/)
+
+## 参考作品
+- [VOODOO](https://play.google.com/store/apps/developer?id=VOODOO)
+  - https://play.google.com/store/apps/details?id=com.neonplay.casualrollersplat2
+  - https://play.google.com/store/apps/details?id=com.h8games.helixjump
+  - https://play.google.com/store/apps/details?id=io.voodoo.paper2
+  - https://play.google.com/store/apps/details?id=com.bigframes.color_road
+- その他
+  - https://play.google.com/store/apps/details?id=com.crazylabs.tricky.traps.game
+  - https://play.google.com/store/apps/details?id=com.azurgames.stackball
+  - https://play.google.com/store/apps/details?id=com.gamestart.fill
+  - https://play.google.com/store/apps/details?id=com.colorup.game
+
+## 演習：基本図形を使ってカジュアルゲームの画面イメージを作ってみよう
+- [演習手順](https://docs.google.com/document/d/1xV3s3uG9jT0wCEfQEid83Pc5nBC7pLg8HZg0V8UyJI4/)
+
+### 利用するツール
+- Photoshop
+- Unity
+
+### 抽象化：円や四角、三角形といった図形を組み合わせてキャラクターを作ってみよう
+- 抽象化するキャラクターを選ぶ(ピカチュウでもアイアンマンでもなんでもよい)
+- 図形ツールを使って、そのキャラクターを徹底的に抽象化した形を描く(図形、色設定など自由に使ってよい)
+- ポイント：元のキャラクターを連想できる限界まで形を抽象化する
+- Photoshopの画像を画面に見立てて、丁度よいサイズにキャラクターの大きさを設定する
+
+### 敵や障害物、地面などを作る
+- 上記のキャラクターが映えるようなその他の素材を描く
+- これも基本図形で構成してみよう
+
+### キーワード
+- 抽象化
+- 記号
+  - アイコン
+    - 対象の形を抽象化した記号
+  - インデックス
+    - 対象を連想させる記号
+  - シンボル
+    - ！や？など、共通認識がある記号
+- モノグラム
+- 点、線、面
+- 幾何学形態の利用
+  - 図形間の距離、大きさ
+  - 図形の形状、配置
+  - 黄金比、白銀比
+- 図と地、ゲシュタルト心理学、プレグナンツの法則
+- 錯視
+
+### 提出
+- 完成したら、GitHub Desktopでコミットして、Publishすれば提出完了
+
+
+  
 
 
 # 2回目
