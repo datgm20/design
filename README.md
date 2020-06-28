@@ -8,6 +8,8 @@
   - 授業ページの左上の丸い矢印(再読み込み)をクリック
   - キー入力スコア報告を右クリックして、新しいタブで開く
   - 自分の行に、記録した最高スコアを入力
+- [ひろはす ゲームクリエイター養成所. デザインの基本である配色を解説します](https://www.youtube.com/watch?v=Knpj-iEhfy4)
+- [Adobe Color. 色の作成ツールWebページ](https://color.adobe.com/ja/create/color-wheel)
 
 # 4回目
 ## 予定
