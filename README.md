@@ -13,6 +13,8 @@
 
 # 4回目
 ## 予定
+- [PC保有アンケート](https://forms.gle/u4fcc8GzKpDAeaPv9)
+
 ## 形のデザイン
 - [形のデザイン](https://am1.jp/dat/design/design3-shape.pdf)の導入
 - 形だけで面白いものは作れる
