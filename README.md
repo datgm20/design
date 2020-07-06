@@ -14,11 +14,63 @@
 
 # 5回目
 ## 予定
-- Photoshopのレイヤー別に出力する
+- [色とUIのデザイン](https://am1.jp/dat/design/design4-color.pdf)
+  - [図](https://am1.jp/dat/design/design4-color-fig.pdf)
 
-## 演習：基本図形を使ってカジュアルゲームの画面イメージを作ってみよう
-- [演習手順](https://docs.google.com/document/d/1xV3s3uG9jT0wCEfQEid83Pc5nBC7pLg8HZg0V8UyJI4/)
-- 終わっていない部分を進める
+## 演習準備
+- GitHub Desktopを起動
+- File > Optionsで、必要ならSign outしてから、自分のアカウントでSign in
+- 先週のu0701をコミットしてPublish
+- [こちら](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing)にリポジトリーのURLを貼り付け
+- Unity Hubを起動して、前回のプロジェクト`u0701`を開く
+
+## 演習1:色見本の作成
+### シーンの新規作成
+- FileメニューからNew Sceneを選択
+- [Ctrl]+[S]キーで保存して、Scenesフォルダーに`Colors`という名前で保存
+- *Main Camera*をクリックして選択
+- *Clear Flags*を*Solid Color*にする
+- *Background*の右の四角をクリック
+- 黒っぽくする
+- xをクリックして、カラーウィンドウを閉じる
+
+### カラーパレット用のQuadを作成
+- *Hierarchy*ウィンドウの*Create*から、*3D Object* > *Quad*を選択
+- *Project*ウィンドウの*Create*をから、*Material*を作成して、Enterキーを押す
+- 作成した*New Material*をドラッグして、*Quad*にドロップ
+- *New Material*をクリックして選択したら、*Shader*のコンボボックスをクリックして、*Unlit* > *Color*を選択
+- 必要に応じて、*Inspector*ウィンドウの*Transform*欄の*Scale*の*X*と*Y*を調整して丁度良い大きさにする
+
+以上で、色を直接設定できる正方形が作れる。
+
+### カラーパレットを作成
+- QuadとMaterialを作成して、作成したマテリアルをQuadにアタッチしておく
+- RGBで色を作る
+- HSVで色を作る(60ごと6分割)
+- QuadとMaterialを複数作成して、それぞれ色を設定
+- Main Cameraの背景色とQuadの組み合わせを色々と試してみよう
+
+ここまでできたら、一度保存をして、GitHubにコミット、プッシュしておく([手順](https://github.com/dat19/gp1/blob/master/github-unity.md#%E5%A4%89%E6%9B%B4%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%82%92%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B%E6%89%8B%E9%A0%86))。
+
+## UnityのUI(uGUI)
+- 新しいシーンを作って、*Scenes*フォルダーに`UI`という名前で保存
+- [UnityのUI基礎](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
+
+## PhotoshopでUIを作る
+kyubuns氏作の[Baum2](https://github.com/kyubuns/Baum2)を使って、PhotoshopでUnityのUIを作成する。
+
+- [CG METHOD. psdデータからuGUIにコンバートする方法](https://www.cg-method.com/entry/psd-to-ugui/)
+
+## Photoshopで作った画像をレイヤー分割
+- [テラシュールブログ. Photoshopで作った画像をレイヤー単位で分割、配置/描画順をそのままにSprite Renderで配置してくれる 「2D PSD Importer」](http://tsubakit1.hateblo.jp/entry/2018/12/18/200751#PSD-Importer)
+  - [2d-animation-v2-samples](https://github.com/Unity-Technologies/2d-animation-v2-samples)
+
+## 参考
+- [Adobe. モバイルアプリおよびゲームエンジン用アニメーションの書き出し](https://helpx.adobe.com/jp/animate/using/create-sprite-sheet.html)
+
+
+## まとめ演習
+- 先週の画面サンプルにUIを追加
 - 抽象化したキャラクターを作成する
 
 ### キーワード
@@ -38,7 +90,6 @@
   - 黄金比、白銀比
 - 図と地、ゲシュタルト心理学、プレグナンツの法則
 - 錯視
-
 
 ### 提出
 - 完成したら、GitHub Desktopでコミットして、Publishすれば提出完了
