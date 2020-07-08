@@ -57,7 +57,7 @@
 - [UnityのUI基礎](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
 
 ## PhotoshopでUIを作る
-kyubuns氏作の[Baum2](https://github.com/kyubuns/Baum2)を使って、PhotoshopでUnityのUIを作成する。
+kyubuns氏作の[Baum2](https://github.com/kyubuns/Baum2)の紹介。書き出しに失敗したり、Unityへのインポートが動かなかったりして、今のところ読み込みに成功していないので、動画で機能を紹介。
 
 - [CG METHOD. psdデータからuGUIにコンバートする方法](https://www.cg-method.com/entry/psd-to-ugui/)
 
