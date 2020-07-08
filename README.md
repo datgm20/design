@@ -13,10 +13,6 @@
 - [Adobe Color. 色の作成ツールWebページ](https://color.adobe.com/ja/create/color-wheel)
 
 # 5回目
-## 予定
-- [色とUIのデザイン](https://am1.jp/dat/design/design4-color.pdf)
-  - [図](https://am1.jp/dat/design/design4-color-fig.pdf)
-
 ## 演習準備
 - GitHub Desktopを起動
 - File > Optionsで、必要ならSign outしてから、自分のアカウントでSign in
@@ -24,7 +20,6 @@
 - [こちら](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing)にリポジトリーのURLを貼り付け
 - Unity Hubを起動して、前回のプロジェクト`u0701`を開く
 
-## 演習1:色見本の作成
 ### シーンの新規作成
 - FileメニューからNew Sceneを選択
 - [Ctrl]+[S]キーで保存して、Scenesフォルダーに`Colors`という名前で保存
@@ -43,6 +38,11 @@
 
 以上で、色を直接設定できる正方形が作れる。
 
+## 予定
+- [色とUIのデザイン](https://am1.jp/dat/design/design4-color.pdf)
+  - [図](https://am1.jp/dat/design/design4-color-fig.pdf)
+
+## 演習1:色見本の作成
 ### カラーパレットを作成
 - QuadとMaterialを作成して、作成したマテリアルをQuadにアタッチしておく
 - RGBで色を作る
