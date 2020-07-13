@@ -15,6 +15,9 @@
 
 # 6回目
 ## 振り返り
+- 前回のUnityプロジェクト
+  - 前回のColorsシーンができていた 17名
+  - 新規のみ 2名
 - [Anna Mészáros. デザイナーではない人がデザインする上で大切な4つの基本原則](https://gigazine.net/news/20190518-fundamental-design-principles/)
 
 ## 文字のデザイン
