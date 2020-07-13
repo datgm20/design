@@ -11,17 +11,20 @@
   - 自分の行に、記録した最高スコアを入力
 - [ひろはす ゲームクリエイター養成所. デザインの基本である配色を解説します](https://www.youtube.com/watch?v=Knpj-iEhfy4)
 - [Adobe Color. 色の作成ツールWebページ](https://color.adobe.com/ja/create/color-wheel)
+- [Adobe. モバイルアプリおよびゲームエンジン用アニメーションの書き出し](https://helpx.adobe.com/jp/animate/using/create-sprite-sheet.html)
 
 # 6回目
-## 話題
+## 振り返り
 - [Anna Mészáros. デザイナーではない人がデザインする上で大切な4つの基本原則](https://gigazine.net/news/20190518-fundamental-design-principles/)
 
 ## 文字のデザイン
 - [スライド](https://am1.jp/dat/design/design5-font.pdf)
 
 ## フリーフォントの探し方とUnityでの活用方法
+- [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [coliss. 2020年用、日本語のフリーフォント420種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts.html)
   - タイトル用と本文用の2つのフォントを見つける。**URLをGmailの下書きやGitHubのREADME.mdに記録しておく**
+- [個人開発のUI設計術](https://crieit.net/posts/UI)
 
 ## UnityのUI(uGUI)
 - 新しいシーンを作って、*Scenes*フォルダーに`UI`という名前で保存
@@ -29,19 +32,15 @@
 - [TextMeshProの使い方](https://docs.google.com/document/d/1XIBCeH27Os43a1epTxYArBBaRK8iTLLIgwG0m4FrUTA/)
   - [TextMeshPro向け　ASCIIコード＋JIS第1水準の文字](http://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
 
+## Photoshopで作った画像をレイヤー分割
+- [テラシュールブログ. Photoshopで作った画像をレイヤー単位で分割、配置/描画順をそのままにSprite Renderで配置してくれる 「2D PSD Importer」](http://tsubakit1.hateblo.jp/entry/2018/12/18/200751#PSD-Importer)
+  - [2d-animation-v2-samples](https://github.com/Unity-Technologies/2d-animation-v2-samples)
+
 ## PhotoshopでUIを作る
 kyubuns氏作の[Baum2](https://github.com/kyubuns/Baum2)の紹介。書き出しに失敗したり、Unityへのインポートが動かなかったりして、今のところ読み込みに成功していないので、動画で機能を紹介。
 
 - [CG METHOD. psdデータからuGUIにコンバートする方法](https://www.cg-method.com/entry/psd-to-ugui/)
 
-## Photoshopで作った画像をレイヤー分割
-- [テラシュールブログ. Photoshopで作った画像をレイヤー単位で分割、配置/描画順をそのままにSprite Renderで配置してくれる 「2D PSD Importer」](http://tsubakit1.hateblo.jp/entry/2018/12/18/200751#PSD-Importer)
-  - [2d-animation-v2-samples](https://github.com/Unity-Technologies/2d-animation-v2-samples)
-
-## 参考
-- [Adobe. モバイルアプリおよびゲームエンジン用アニメーションの書き出し](https://helpx.adobe.com/jp/animate/using/create-sprite-sheet.html)
-- [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [個人開発のUI設計術](https://crieit.net/posts/UI)
 
 
 ## まとめ演習
