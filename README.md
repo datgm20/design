@@ -21,14 +21,13 @@
 
 ## フリーフォントの探し方とUnityでの活用方法
 - [coliss. 2020年用、日本語のフリーフォント420種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts.html)
-  - タイトル用と本文用の2つのフォントを見つけて、リンクをメモ帳などにとっておく
-- [TextMeshPro向け　ASCIIコード＋JIS第1水準の文字](http://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
-  - [TextMeshProの使い方](https://docs.google.com/document/d/1XIBCeH27Os43a1epTxYArBBaRK8iTLLIgwG0m4FrUTA/)
-
+  - タイトル用と本文用の2つのフォントを見つける。**URLをGmailの下書きやGitHubのREADME.mdに記録しておく**
 
 ## UnityのUI(uGUI)
 - 新しいシーンを作って、*Scenes*フォルダーに`UI`という名前で保存
 - [UnityのUI基礎](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
+- [TextMeshProの使い方](https://docs.google.com/document/d/1XIBCeH27Os43a1epTxYArBBaRK8iTLLIgwG0m4FrUTA/)
+  - [TextMeshPro向け　ASCIIコード＋JIS第1水準の文字](http://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
 
 ## PhotoshopでUIを作る
 kyubuns氏作の[Baum2](https://github.com/kyubuns/Baum2)の紹介。書き出しに失敗したり、Unityへのインポートが動かなかったりして、今のところ読み込みに成功していないので、動画で機能を紹介。
