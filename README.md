@@ -27,6 +27,7 @@
 - [個人開発のUI設計術](https://crieit.net/posts/UI)
 
 ## UnityのUI(uGUI)
+- u0701に続けて作業をする
 - 新しいシーンを作って、*Scenes*フォルダーに`UI`という名前で保存
 - [UnityのUI基礎](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
 - [TextMeshProの使い方](https://docs.google.com/document/d/1XIBCeH27Os43a1epTxYArBBaRK8iTLLIgwG0m4FrUTA/)
