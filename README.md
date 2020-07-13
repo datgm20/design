@@ -12,6 +12,67 @@
 - [ひろはす ゲームクリエイター養成所. デザインの基本である配色を解説します](https://www.youtube.com/watch?v=Knpj-iEhfy4)
 - [Adobe Color. 色の作成ツールWebページ](https://color.adobe.com/ja/create/color-wheel)
 
+# 6回目
+## 話題
+- [Anna Mészáros. デザイナーではない人がデザインする上で大切な4つの基本原則](https://gigazine.net/news/20190518-fundamental-design-principles/)
+
+## 文字のデザイン
+- [スライド](https://am1.jp/dat/design/design5-font.pdf)
+
+## フリーフォントの探し方とUnityでの活用方法
+- [coliss. 2020年用、日本語のフリーフォント420種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts.html)
+  - タイトル用と本文用の2つのフォントを見つけて、リンクをメモ帳などにとっておく
+- [TextMeshPro向け　ASCIIコード＋JIS第1水準の文字](http://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
+- [手順](https://docs.google.com/document/d/1V8witriNqNILYd5tdnEE9pnvZokuHfTY3oJEBDtgAo0/)
+
+
+## UnityのUI(uGUI)
+- 新しいシーンを作って、*Scenes*フォルダーに`UI`という名前で保存
+- [UnityのUI基礎](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
+
+## PhotoshopでUIを作る
+kyubuns氏作の[Baum2](https://github.com/kyubuns/Baum2)の紹介。書き出しに失敗したり、Unityへのインポートが動かなかったりして、今のところ読み込みに成功していないので、動画で機能を紹介。
+
+- [CG METHOD. psdデータからuGUIにコンバートする方法](https://www.cg-method.com/entry/psd-to-ugui/)
+
+## Photoshopで作った画像をレイヤー分割
+- [テラシュールブログ. Photoshopで作った画像をレイヤー単位で分割、配置/描画順をそのままにSprite Renderで配置してくれる 「2D PSD Importer」](http://tsubakit1.hateblo.jp/entry/2018/12/18/200751#PSD-Importer)
+  - [2d-animation-v2-samples](https://github.com/Unity-Technologies/2d-animation-v2-samples)
+
+## 参考
+- [Adobe. モバイルアプリおよびゲームエンジン用アニメーションの書き出し](https://helpx.adobe.com/jp/animate/using/create-sprite-sheet.html)
+- [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [個人開発のUI設計術](https://crieit.net/posts/UI)
+
+
+## まとめ演習
+- [提出用URL](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)
+- 先週の画面サンプルにUIを追加
+- 抽象化したキャラクターを作成する
+
+### キーワード
+- 抽象化
+- 記号
+  - アイコン
+    - 対象の形を抽象化した記号
+  - インデックス
+    - 対象を連想させる記号
+  - シンボル
+    - ！や？など、共通認識がある記号
+- モノグラム
+- 点、線、面
+- 幾何学形態の利用
+  - 図形間の距離、大きさ
+  - 図形の形状、配置
+  - 黄金比、白銀比
+- 図と地、ゲシュタルト心理学、プレグナンツの法則
+- 錯視
+
+### 提出
+- 完成したら、GitHub Desktopでコミットして、Publishすれば提出完了
+
+
+
 # 5回目
 ## 演習準備
 - GitHub Desktopを起動
@@ -38,7 +99,7 @@
 
 以上で、色を直接設定できる正方形が作れる。
 
-## 予定
+## 内容
 - [色とUIのデザイン](https://am1.jp/dat/design/design4-color.pdf)
   - [図](https://am1.jp/dat/design/design4-color-fig.pdf)
 
@@ -51,49 +112,6 @@
 - Main Cameraの背景色とQuadの組み合わせを色々と試してみよう
 
 ここまでできたら、一度保存をして、GitHubにコミット、プッシュしておく([手順](https://github.com/dat19/gp1/blob/master/github-unity.md#%E5%A4%89%E6%9B%B4%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%82%92%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B%E6%89%8B%E9%A0%86))。
-
-## UnityのUI(uGUI)
-- 新しいシーンを作って、*Scenes*フォルダーに`UI`という名前で保存
-- [UnityのUI基礎](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
-
-## PhotoshopでUIを作る
-kyubuns氏作の[Baum2](https://github.com/kyubuns/Baum2)の紹介。書き出しに失敗したり、Unityへのインポートが動かなかったりして、今のところ読み込みに成功していないので、動画で機能を紹介。
-
-- [CG METHOD. psdデータからuGUIにコンバートする方法](https://www.cg-method.com/entry/psd-to-ugui/)
-
-## Photoshopで作った画像をレイヤー分割
-- [テラシュールブログ. Photoshopで作った画像をレイヤー単位で分割、配置/描画順をそのままにSprite Renderで配置してくれる 「2D PSD Importer」](http://tsubakit1.hateblo.jp/entry/2018/12/18/200751#PSD-Importer)
-  - [2d-animation-v2-samples](https://github.com/Unity-Technologies/2d-animation-v2-samples)
-
-## 参考
-- [Adobe. モバイルアプリおよびゲームエンジン用アニメーションの書き出し](https://helpx.adobe.com/jp/animate/using/create-sprite-sheet.html)
-
-
-## まとめ演習
-- 先週の画面サンプルにUIを追加
-- 抽象化したキャラクターを作成する
-
-### キーワード
-- 抽象化
-- 記号
-  - アイコン
-    - 対象の形を抽象化した記号
-  - インデックス
-    - 対象を連想させる記号
-  - シンボル
-    - ！や？など、共通認識がある記号
-- モノグラム
-- 点、線、面
-- 幾何学形態の利用
-  - 図形間の距離、大きさ
-  - 図形の形状、配置
-  - 黄金比、白銀比
-- 図と地、ゲシュタルト心理学、プレグナンツの法則
-- 錯視
-
-### 提出
-- 完成したら、GitHub Desktopでコミットして、Publishすれば提出完了
-
 
 
 # 4回目
