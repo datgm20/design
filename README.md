@@ -22,6 +22,7 @@
 
 ## Microsoftアカウントの作成
 - [Microsoftアカウントの作成とVisualC#のインストール](https://docs.google.com/document/d/1Ar52OPEE64h0pwp6T1225h9kyvb6tcjCvOHErx4X3oc/)
+- [Visual Studio 2013のインストール手順](https://youtu.be/zcW9JxFwfmU)
 
 ## 文字のデザイン
 - [スライド](https://am1.jp/dat/design/design5-font.pdf)
