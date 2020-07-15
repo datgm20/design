@@ -29,6 +29,11 @@
 - [文字のデザイン. スライド](https://am1.jp/dat/design/design5-font.pdf)
   - [文字のデザイン. 図](https://am1.jp/dat/design/design5-font-fig.pdf)
 
+
+## 準備手順
+- [Unityの新規プロジェクトの作成とGitHubへのパブリッシュ](https://docs.google.com/document/d/1xV3s3uG9jT0wCEfQEid83Pc5nBC7pLg8HZg0V8UyJI4/)
+- [こちら](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing)にリポジトリーのURLを貼り付け
+
 ### フリーフォントの探し方とUnityでの活用方法
 - [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [coliss. 2020年用、日本語のフリーフォント420種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts.html)
@@ -87,6 +92,7 @@ kyubuns氏作の[Baum2](https://github.com/kyubuns/Baum2)の紹介。書き出�
 - 先週のu0701をコミットしてPublish
 - [こちら](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing)にリポジトリーのURLを貼り付け
 - Unity Hubを起動して、前回のプロジェクト`u0701`を開く
+
 
 ### シーンの新規作成
 - FileメニューからNew Sceneを選択
