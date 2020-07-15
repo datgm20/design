@@ -1,10 +1,10 @@
 # 基礎実習(ゲームデザイン実習) デジタルアーツ東京2020年度生
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tm4AUjwjQr72mPJg?e=bcG9Lr)
+- [質問](https://meet.google.com/dyf-fsns-kou)
 
 # 参考資料
 - [伊藤 周, Kitposition ～きっとポジション～. ユニティちゃんが教える！初心者向けUnity講座](https://www.udemy.com/course/unity-chan-tutorial-01/)
   - Unity2019.3.x(最新版)
-- [質問](https://meet.google.com/dyf-fsns-kou)
 - [キー入力スコア報告](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/)
   - 授業ページの左上の丸い矢印(再読み込み)をクリック
   - キー入力スコア報告を右クリックして、新しいタブで開く
