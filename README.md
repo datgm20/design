@@ -36,6 +36,9 @@
 
 ### フリーフォントの探し方とUnityでの活用方法
 - [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+  - プロジェクトのテーマを明確化して、それに合うものを選ぶ
+  - フォントのフォルム（太さ、丸み、縦横比)はある程度揃えつつ、違いがあるもの
+  - 1つのプロジェクトで、タイトルと本文、あるいはタイトルとUIと本文といった、2種類以上のフォントを選ぶ
 - [coliss. 2020年用、日本語のフリーフォント420種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts.html)
   - タイトル用と本文用の2つのフォントを見つける。**URLをGmailの下書きやGitHubのREADME.mdに記録しておく**
 - [個人開発のUI設計術](https://crieit.net/posts/UI)
