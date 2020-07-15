@@ -27,6 +27,7 @@
 ### 講義
 - [Anna Mészáros. デザイナーではない人がデザインする上で大切な4つの基本原則](https://gigazine.net/news/20190518-fundamental-design-principles/)
 - [文字のデザイン. スライド](https://am1.jp/dat/design/design5-font.pdf)
+  - [文字のデザイン. 図](https://am1.jp/dat/design/design5-font-fig.pdf)
 
 ### フリーフォントの探し方とUnityでの活用方法
 - [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
