@@ -13,13 +13,19 @@
 - [Adobe Color. 色の作成ツールWebページ](https://color.adobe.com/ja/create/color-wheel)
 - [Adobe. モバイルアプリおよびゲームエンジン用アニメーションの書き出し](https://helpx.adobe.com/jp/animate/using/create-sprite-sheet.html)
 
+# 7回目
+## 話題
+- [1週間ゲームジャムが8/10から開始](https://twitter.com/naichilab/status/1287368068390244352)
+
+## 予定
+
 # 6回目
 ## 振り返り
 - 前回のUnityプロジェクト
   - 前回のColorsシーンができていた 17名
   - 新規のみ 2名
 
-## 予定
+## 内容
 ### Microsoftアカウントの作成
 - [Microsoftアカウントの作成とVisualC#のインストール](https://docs.google.com/document/d/1Ar52OPEE64h0pwp6T1225h9kyvb6tcjCvOHErx4X3oc/)
 - [Visual Studio 2013のインストール手順](https://youtu.be/zcW9JxFwfmU)
