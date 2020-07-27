@@ -16,6 +16,7 @@
 # 7回目
 ## 話題
 - [1週間ゲームジャムが8/10から開始](https://twitter.com/naichilab/status/1287368068390244352)
+- [Unity入門チュートリアル 「玉転がし」(Roll-a-Ball) ビジュアルスクリプティング版](https://learn.unity.com/project/unityru-men-chiyutoriaru-yu-zhuan-gashi-roll-a-ball-biziyuarusukuriputeinguban?utm_campaign=other_japan_newsletter_2020-7-JP-New-bolt-cm&utm_content=2020-7-JP-New-bolt&utm_medium=email&utm_source=Eloqua)
 
 ## 予定
 
