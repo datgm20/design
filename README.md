@@ -25,26 +25,25 @@
 
 ## 演習準備
 ### Unityのプロジェクト作成とGitHubへの登録
-- プロジェクト名を`ensyu0529`、**3D**でUnityプロジェクトを作成
+- プロジェクト名を`u0805`、**3D**でUnityプロジェクトを作成
 - [Ctrl]+[S]キーを押して保存ダイアログが開いたら以下を行う
   - 新しいフォルダーを作って、`Scenes`という名前にする
   - 作成した`Scenes`フォルダーをダブルクリックして開く
   - ファイル名を`pps`にして保存する
 - *File*メニューから*Save Project*を選択して、プロジェクトを保存
-- [UnityプロジェクトをGitHubに登録する手順](https://github.com/dat19/gp1/blob/master/github-unity.md)に従って、作成したプロジェクトをGitHubに登録
-- [こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)に共有用URLを報告
+- [UnityプロジェクトをGitHubに登録する手順](https://github.com/datgm20/gp1/blob/master/github-unity.md)に従って、作成したプロジェクトをGitHubに登録
+- [こちら](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing)に共有用URLを報告
 
 ## 演習
 - コーネルボックスを作る
   - [monobook.org. コーネルボックスとは](https://monobook.org/wiki/%E3%82%B3%E3%83%BC%E3%83%8D%E3%83%AB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9)
-  - [@thiroaki. コーネルボックスをつくってあそぼ](https://qiita.com/thiroaki/items/7a9213150b15810137f2)
 - SphereやPlane、ボックスなどを配置して着色
 - 様々なライトを試す
 - カメラの画角(Field of view = 視野角)
 - ポストプロセスによる被写界深度(ボケ)の表現、HDR(High Dynamic Range)による輝き
   - [PostProcessingStack v2リポジトリー](https://github.com/Unity-Technologies/PostProcessing/releases)
   - [設定手順](http://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
-- できたらこちらの[手順](https://github.com/dat19/gp1/blob/master/github-unity.md#%E5%A4%89%E6%9B%B4%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%82%92%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B%E6%89%8B%E9%A0%86)を参考に、作成したプロジェクトをGitHubにプッシュする
+- できたらこちらの[手順](https://github.com/datgm20/gp1/blob/master/github-unity.md#%E5%A4%89%E6%9B%B4%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%82%92%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B%E6%89%8B%E9%A0%86)を参考に、作成したプロジェクトをGitHubにプッシュする
 
 ## 時間があれば...
 - TextMesh Proのおさらい
