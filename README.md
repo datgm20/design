@@ -27,10 +27,6 @@
 ## 演習準備
 ### Unityのプロジェクト作成とGitHubへの登録
 - プロジェクト名を`u0805`、**3D**でUnityプロジェクトを作成
-- [Ctrl]+[S]キーを押して保存ダイアログが開いたら以下を行う
-  - 新しいフォルダーを作って、`Scenes`という名前にする
-  - 作成した`Scenes`フォルダーをダブルクリックして開く
-  - ファイル名を`pps`にして保存する
 - *File*メニューから*Save Project*を選択して、プロジェクトを保存
 - [UnityプロジェクトをGitHubに登録する手順](https://github.com/datgm20/gp1/blob/master/github-unity.md)に従って、作成したプロジェクトをGitHubに登録
 - [こちら](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing)に共有用URLを報告
