@@ -13,13 +13,39 @@
 - [Adobe Color. 色の作成ツールWebページ](https://color.adobe.com/ja/create/color-wheel)
 - [Adobe. モバイルアプリおよびゲームエンジン用アニメーションの書き出し](https://helpx.adobe.com/jp/animate/using/create-sprite-sheet.html)
 
+# 8回目
+## 話題
+- [1週間ゲームジャム](https://unityroom.com/unity1weeks)
+  - 投稿した人、あるいは、開発中の方は作品をお知らせください
+  - [学生活動事例 Cammel 広島大学開発チームさん](https://twitter.com/Cammel2019/status/1296287367813165062)
+- [unity1week online共有会#2](https://meetup.unity3d.jp/jp/events/1254)
+  - 1日目 9/12 20:00 / 2日目 9/19 20-
+
+## 予定
+- [ハイパーカジュアルゲームナイト 開発過程・プロトタイプ編](https://youtu.be/LZ8IDEJeFXk)
+- Unityの演出
+  - 前回のプロジェクト u0805 を開く
+  - ライティングやPostProcessing Stackのおさらい
+    - コーネルボックスをプレハブ化
+    - 新しいシーンを作成
+    - 固定ライトを外す
+    - PostProcessing Stack V2を再導入
+    - Recordersのインポートと動画、静止画の作り方
+    - ライト、反射、各種エフェクトの設定
+    - Googleドキュメントに、試したエフェクトのスクリーンショットと解説を作成する
+  - TextMeshPro
+- できたドキュメントを、以下に共有する
+  - [提出URL]()
+
+---
+
 # 7回目
 ## 話題
 - [1週間ゲームジャムが8/10から開始](https://twitter.com/naichilab/status/1287368068390244352)
 - [Unityラーニングマテリアルの歩き方](https://youtu.be/Dx7qQQn7WEQ?t=1861)
 - [Unity入門チュートリアル 「玉転がし」(Roll-a-Ball) ビジュアルスクリプティング版](https://learn.unity.com/project/unityru-men-chiyutoriaru-yu-zhuan-gashi-roll-a-ball-biziyuarusukuriputeinguban?utm_campaign=other_japan_newsletter_2020-7-JP-New-bolt-cm&utm_content=2020-7-JP-New-bolt&utm_medium=email&utm_source=Eloqua)
 
-## 予定
+## 内容
 - [写真のデザイン](https://am1.jp/dat/design/design6-photo.pdf)
   - [図](https://am1.jp/dat/design/design6-photo-fig.pdf)
 - [作業手順](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/)
@@ -29,7 +55,7 @@
 - プロジェクト名を`u0805`、**3D**でUnityプロジェクトを作成
 - *File*メニューから*Save Project*を選択して、プロジェクトを保存
 - [UnityプロジェクトをGitHubに登録する手順](https://github.com/datgm20/gp1/blob/master/github-unity.md)に従って、作成したプロジェクトをGitHubに登録
-- [こちら](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing)に共有用URLを報告
+- [こちら]()に共有用URLを報告
 
 ## 演習
 - コーネルボックスを作る
@@ -71,7 +97,7 @@
 
 ## 準備手順
 - [Unityの新規プロジェクトの作成とGitHubへのパブリッシュ](https://docs.google.com/document/d/1xV3s3uG9jT0wCEfQEid83Pc5nBC7pLg8HZg0V8UyJI4/)
-- [こちら](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing)にリポジトリーのURLを貼り付け
+- [こちら]()にリポジトリーのURLを貼り付け
 
 ### フリーフォントの探し方とUnityでの活用方法
 - [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
@@ -132,7 +158,7 @@ kyubuns氏作の[Baum2](https://github.com/kyubuns/Baum2)の紹介。書き出�
 - GitHub Desktopを起動
 - File > Optionsで、必要ならSign outしてから、自分のアカウントでSign in
 - 先週のu0701をコミットしてPublish
-- [こちら](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing)にリポジトリーのURLを貼り付け
+- [こちら]()にリポジトリーのURLを貼り付け
 - Unity Hubを起動して、前回のプロジェクト`u0701`を開く
 
 
@@ -215,7 +241,7 @@ kyubuns氏作の[Baum2](https://github.com/kyubuns/Baum2)の紹介。書き出�
 - リンクを取得の下にある「リンクを知っている全員に変更」をクリック
 - リンクをコピー をクリック
 - 完了 をクリック
-- [ドキュメントの共有URLの提出先](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing) を開く
+- [ドキュメントの共有URLの提出先]() を開く
 - 自分の名前の右の欄に、右クリックして貼り付け
 
 ## 内容
@@ -287,5 +313,5 @@ kyubuns氏作の[Baum2](https://github.com/kyubuns/Baum2)の紹介。書き出�
   - 作業用フォルダーの作成
   - Googleドキュメントでノートをとる
 - [キー入力練習](https://www.e-typing.ne.jp/)
-  - [結果をここに報告](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/)
+  - [結果をここに報告]()
 
