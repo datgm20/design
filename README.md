@@ -16,6 +16,7 @@
 # 8回目
 ## 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
+  - [投稿作品 JUMP OR DIE](https://unityroom.com/games/jod)
   - 投稿した人、あるいは、開発中の方は作品をお知らせください
   - [学生活動事例 Cammel 広島大学開発チームさん](https://twitter.com/Cammel2019/status/1296287367813165062)
 - [unity1week online共有会#2](https://meetup.unity3d.jp/jp/events/1254)
