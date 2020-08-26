@@ -13,6 +13,9 @@
 - [Adobe Color. 色の作成ツールWebページ](https://color.adobe.com/ja/create/color-wheel)
 - [Adobe. モバイルアプリおよびゲームエンジン用アニメーションの書き出し](https://helpx.adobe.com/jp/animate/using/create-sprite-sheet.html)
 
+# 休校予定日
+- 11/4(水) 創立記念日の振り替えで休校
+
 # 8回目
 ## 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
