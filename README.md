@@ -40,7 +40,7 @@
     - Googleドキュメントに、試したエフェクトのスクリーンショットと解説を作成する
   - TextMeshPro
 - できたドキュメントを以下に共有する
-  - [提出URL]()
+  - [提出URL](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/edit?usp=sharing)
 
 ---
 
