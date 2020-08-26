@@ -29,6 +29,7 @@
 - [ハイパーカジュアルゲームナイト 開発過程・プロトタイプ編](https://youtu.be/LZ8IDEJeFXk)
 - Unityの演出
   - 前回のプロジェクト u0805 を開く
+    - ない人は https://github.com/datgm20/u0805 を開いて、 Code > Download ZIPでダウンロードして、ドキュメントフォルダーの自分のフォルダーに展開したものを開く
   - ライティングやPostProcessing Stackのおさらい
     - コーネルボックスをプレハブ化
     - 新しいシーンを作成
