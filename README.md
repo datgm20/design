@@ -16,6 +16,28 @@
 # 休校予定日
 - 11/4(水) 創立記念日の振り替えで休校
 
+# 9回目
+## 予定
+- [著作権概論](https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/)
+
+## 演習： 素材を探しと規約の確認、出典URL
+
+アプリに組み込みが可能なフリー素材をインターネットで探して、GoogleシートにURLをまとめる。探すのは以下のような素材。
+
+- 習作として開発予定の[よけとる](https://dat19.github.io/design/yoketoru/)の素材
+  - 背景や地面に使えそうな画像
+  - プレイヤーキャラクター
+  - 敵用のキャラクター
+  - アイテム用のキャラクター
+  - タイトル用フォント
+  - 説明用フォント
+  - BGM
+  - 効果音
+- [JUMP OR DIE](https://unityroom.com/games/jod) に合いそうな楽曲
+
+できたら、こちらに作成したGoogleドキュメントのURLを貼り付けて提出。
+
+
 # 8回目
 ## 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
@@ -25,7 +47,7 @@
 - [unity1week online共有会#2](https://meetup.unity3d.jp/jp/events/1254)
   - 1日目 9/12 20:00 / 2日目 9/19 20-
 
-## 予定
+## 内容
 - [ハイパーカジュアルゲームナイト 開発過程・プロトタイプ編](https://youtu.be/LZ8IDEJeFXk)
 - Unityの演出
   - 前回のプロジェクト u0805 を開く
