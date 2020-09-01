@@ -17,6 +17,9 @@
 - 11/4(水) 創立記念日の振り替えで休校
 
 # 9回目
+## 話題 
+- [真夏のアドベントカレンダー完了](http://assetstore.info/eventandcontest/adventcalendar/summer-advent-calendar-2020/)
+
 ## 前回の復習
 - 正解 12名
 - [例その1](https://docs.google.com/document/d/1ZbH3xMEywaA7NCSCUAHWPp_RdhQ0BYE2vY3ecb3TTLo/)
