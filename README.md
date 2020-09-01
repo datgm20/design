@@ -18,7 +18,8 @@
 
 # 9回目
 ## 前回の復習
-- https://docs.google.com/document/d/1_IEOcyvOYxFK8X0AZ9815PQMGl7BhzXNFFBHeGtuA4A/
+- https://docs.google.com/document/d/1ZbH3xMEywaA7NCSCUAHWPp_RdhQ0BYE2vY3ecb3TTLo/
+
 
 
 ## 予定
