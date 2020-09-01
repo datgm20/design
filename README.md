@@ -17,6 +17,10 @@
 - 11/4(水) 創立記念日の振り替えで休校
 
 # 9回目
+## 前回の復習
+- https://docs.google.com/document/d/1_IEOcyvOYxFK8X0AZ9815PQMGl7BhzXNFFBHeGtuA4A/
+
+
 ## 予定
 - [著作権概論](https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/)
 
