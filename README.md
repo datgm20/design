@@ -18,8 +18,10 @@
 
 # 9回目
 ## 前回の復習
-- https://docs.google.com/document/d/1ZbH3xMEywaA7NCSCUAHWPp_RdhQ0BYE2vY3ecb3TTLo/
-
+- 正解 12名
+- [例その1](https://docs.google.com/document/d/1ZbH3xMEywaA7NCSCUAHWPp_RdhQ0BYE2vY3ecb3TTLo/)
+- [例その2](https://docs.google.com/document/d/1u3oYngLMwr-8zJlDzPyIqmg5O1eFjCE_vjq7KSzn_T4/)
+- [例その3](https://docs.google.com/document/d/1YwcL7AEY8Ny5cajkdOKTmrh5TSbyF7kXC7hdgXljt40/)
 
 
 ## 予定
