@@ -27,12 +27,14 @@
 - [例その3](https://docs.google.com/document/d/1YwcL7AEY8Ny5cajkdOKTmrh5TSbyF7kXC7hdgXljt40/)
 
 
-## 予定
+## 内容
 - [著作権概論](https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/)
 
 ## 演習： 素材を探しと規約の確認、出典URL
 
 アプリに組み込みが可能なフリー素材をインターネットで探して、GoogleシートにURLをまとめる。探すのは以下のような素材。
+
+**期限：9/9までに一通り揃える。**
 
 - 習作として開発予定の[よけとる](https://dat19.github.io/design/yoketoru/)の素材
   - 背景や地面に使えそうな画像
@@ -43,9 +45,9 @@
   - 説明用フォント
   - BGM
   - 効果音
-- [JUMP OR DIE](https://unityroom.com/games/jod) に合いそうな楽曲
+- おまけ　余裕があれば、[JUMP OR DIE](https://unityroom.com/games/jod) に合いそうな楽曲
 
-できたら、こちらに作成したGoogleドキュメントのURLを貼り付けて提出。
+できたら、[こちら](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/)に作成したGoogleドキュメントのURLを貼り付けて提出。
 
 
 # 8回目
