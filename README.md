@@ -19,6 +19,7 @@
 # 10回目
 ## 話題
 - [paiza開発日誌. 22卒が今からできる・内定が近く就活準備](https://paiza.hatenablog.com/entry/2020/09/03/150000)
+- [PERACON2020順位一覧](https://peracon.cesa.or.jp/2020/result.html)
 
 ## 予定
 - gp20アカウントに切り替えられるかを確認
