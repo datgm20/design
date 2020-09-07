@@ -20,6 +20,8 @@
 ## 話題
 - [paiza開発日誌. 22卒が今からできる・内定が近く就活準備](https://paiza.hatenablog.com/entry/2020/09/03/150000)
 - [PERACON2020順位一覧](https://peracon.cesa.or.jp/2020/result.html)
+- [ゆーじ. unity1week参加ふりかえり](https://twitter.com/yuji_ap/status/1301161280032530432)
+- [げーむ仙人かいぽん（ぱぱら快刀）. プロが教える-ペラ1枚ゲーム企画のテクニック【技術解説】](https://twitter.com/kenji_kaido/status/1302295220390825984)
 
 ## 予定
 - gp20アカウントに切り替えられるかを確認
