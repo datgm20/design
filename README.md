@@ -34,6 +34,7 @@
     - Visual Studio 2019
     - Unity
     - GitHub Desktop
+      - File > Options から Git を選び、 Nameをモニターのシールのもの(A601-??)、Emailを `tnk.dat.class@gmail.com` にする
     - Atomエディター
 - 前回収集したアセットを使って、Unityでよけとるのモックアップを作る
   - レイアウト設定
