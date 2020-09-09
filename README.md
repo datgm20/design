@@ -37,6 +37,10 @@
       - File > Options から Git を選び、 Nameをモニターのシールのもの(A601-??)、Emailを `tnk.dat.class@gmail.com` にする
     - Atomエディター
 - 前回収集したアセットを使って、Unityでよけとるのモックアップを作る
+  - [よけとるUnityプロジェクト作成手順](https://docs.google.com/document/d/10HDFE0fprWh88hwVYvVyJAZyvBp30y1bbGNvQ_pt7_E/)
+    - [プロジェクトの作成と解像度の設定](https://docs.google.com/document/d/1N_UfrUvo2DhkljkGx5Tt_l9DKqzU_x8NKye0AjIIWeg/)
+    - [UnityプロジェクトをGitHubに登録する手順](https://github.com/datgm20/gp1/blob/master/github-unity.md)
+  - シーンを作成する
   - レイアウト設定
   - ゲームオブジェクトの作成
   - ポストプロセス、文字など
