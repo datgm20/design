@@ -16,6 +16,10 @@
 # 休校予定日
 - 11/4(水) 創立記念日の振り替えで休校
 
+# 11回目
+## 話題
+- [o8que. PUN2で始めるオンラインゲーム開発入門](https://connect.unity.com/p/pun2deshi-meruonraingemukai-fa-ru-men-sono1)
+
 # 10回目
 ## 話題
 - [paiza開発日誌. 22卒が今からできる・内定が近く就活準備](https://paiza.hatenablog.com/entry/2020/09/03/150000)
