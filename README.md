@@ -21,6 +21,25 @@
 - [o8que. PUN2で始めるオンラインゲーム開発入門](https://connect.unity.com/p/pun2deshi-meruonraingemukai-fa-ru-men-sono1)
 - [unity1week online共有会 #2-A](https://youtu.be/rao90BS-OX8)
 
+## 予定
+- gp20アカウントに切り替えられるかを確認
+  - gp20 でログイン
+  - パブリックのドキュメントにコピーした自分のフォルダーを切り取って、ドキュメントフォルダー内に貼り付け
+  - 以下、起動と動作を確認
+    - Visual Studio 2019
+    - Unity
+    - GitHub Desktop
+      - GitHub Desktop で検索して、公式ページを開く
+      - Download for Windows(64 bit)ボタンをクリックして、ダウンロードしたら、実行してインストール
+      - File > Options から Git を選び、 Nameをモニターのシールのもの(A601-??)、Emailを `tnk.dat.class@gmail.com` にする
+    - Atomエディター
+- 前回の続き。収集したアセットを使って、Unityでよけとるのモックアップを作る
+  - [よけとるUnityプロジェクト作成手順](https://docs.google.com/document/d/10HDFE0fprWh88hwVYvVyJAZyvBp30y1bbGNvQ_pt7_E/)
+    - [プロジェクトの作成と解像度の設定](https://docs.google.com/document/d/1N_UfrUvo2DhkljkGx5Tt_l9DKqzU_x8NKye0AjIIWeg/)
+  - ゲームオブジェクトの作成
+  - ポストプロセス、文字など
+
+
 # 10回目
 ## 話題
 - [paiza開発日誌. 22卒が今からできる・内定が近く就活準備](https://paiza.hatenablog.com/entry/2020/09/03/150000)
@@ -28,27 +47,16 @@
 - [ゆーじ. unity1week参加ふりかえり](https://twitter.com/yuji_ap/status/1301161280032530432)
 - [げーむ仙人かいぽん（ぱぱら快刀）. プロが教える-ペラ1枚ゲーム企画のテクニック【技術解説】](https://twitter.com/kenji_kaido/status/1302295220390825984)
 
-## 予定
+## 内容
 - gp20アカウントに切り替えられるかを確認
   - Studentでログイン
   - ドキュメントフォルダー内の自分のフォルダーをコピーして、 Windows7_OS(C:) > ユーザー > パブリック > パブリックのドキュメントを開いて、そこにCtrl+Vキーで貼り付ける
-  - Studentをログアウト
-  - gp20 でログイン
-  - パブリックのドキュメントにコピーした自分のフォルダーを切り取って、ドキュメントフォルダー内に貼り付け
-  - 以下、起動と動作を確認
-    - Visual Studio 2019
-    - Unity
-    - GitHub Desktop
-      - File > Options から Git を選び、 Nameをモニターのシールのもの(A601-??)、Emailを `tnk.dat.class@gmail.com` にする
-    - Atomエディター
 - 前回収集したアセットを使って、Unityでよけとるのモックアップを作る
   - [よけとるUnityプロジェクト作成手順](https://docs.google.com/document/d/10HDFE0fprWh88hwVYvVyJAZyvBp30y1bbGNvQ_pt7_E/)
     - [プロジェクトの作成と解像度の設定](https://docs.google.com/document/d/1N_UfrUvo2DhkljkGx5Tt_l9DKqzU_x8NKye0AjIIWeg/)
     - [UnityプロジェクトをGitHubに登録する手順](https://github.com/datgm20/gp1/blob/master/github-unity.md)
   - シーンを作成する
   - レイアウト設定
-  - ゲームオブジェクトの作成
-  - ポストプロセス、文字など
 
 
 # 9回目
