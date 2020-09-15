@@ -16,6 +16,9 @@
 # 休校予定日
 - 11/4(水) 創立記念日の振り替えで休校
 
+# 授業資料
+- [講義ふり返り動画-10 9/9](https://youtu.be/4ObJgOItdJY)
+
 # 11回目
 ## 話題
 - [o8que. PUN2で始めるオンラインゲーム開発入門](https://connect.unity.com/p/pun2deshi-meruonraingemukai-fa-ru-men-sono1)
