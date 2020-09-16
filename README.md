@@ -19,12 +19,33 @@
 # 授業資料
 - [講義ふり返り動画-10 9/9](https://youtu.be/4ObJgOItdJY)
 
-# 11回目
+# 12回目
+
+** 今後、プロジェクトが個別になる。休んだり、作業が追い付かずにプロジェクトの作成が完了できなかった場合は、次の週までに出席した友達に手順を聞いて、作業を完了させておくこと。講義開始時に遅れている分については今後はフォローの対象外とする。**
+
 ## 話題
 - [o8que. PUN2で始めるオンラインゲーム開発入門](https://connect.unity.com/p/pun2deshi-meruonraingemukai-fa-ru-men-sono1)
 - [unity1week online共有会 #2-A](https://youtu.be/rao90BS-OX8)
 
+## yoketoru2020前回の振り返り
+- 容量がオーバーしている場合、Pushはしていない
+- 最低限の曲と効果音を組み込み
+- BGM再生
+- TinyAudioスクリプトの作成とアタッチ
+
+
 ## 予定
+- gp20アカウントで開始
+- yoketoru2020の開発
+  - [よけとるUnityプロジェクト作成手順](https://docs.google.com/document/d/10HDFE0fprWh88hwVYvVyJAZyvBp30y1bbGNvQ_pt7_E/)
+  - TinyAudioを完成させる
+  - ゲームオブジェクトの作成
+  - ポストプロセス、文字など
+
+
+# 11回目
+
+## 内容
 - gp20アカウントに切り替えられるかを確認
   - gp20 でログイン
   - パブリックのドキュメントにコピーした自分のフォルダーを切り取って、ドキュメントフォルダー内に貼り付け
@@ -38,7 +59,6 @@
       - Download して、実行
       - 何か聞かれたらそのままOKなどで進める
       - エディターが開いたら完了。閉じてよい
-     
 - 前回の続き。収集したアセットを使って、Unityでよけとるのモックアップを作る
   - 前回のプロジェクトが未完成、あるいは、欠席で手元にない人は以下から入手して、ドキュメントの自分のフォルダー内に展開する
     - `X:\2020年\ゲーム学科\Student\ゲームプログラム1年\yoketoru20200909.zip` をドキュメントの自分のフォルダーにコピー
@@ -46,8 +66,8 @@
     - 展開が完了したら、手順に従ってUnity Hubに登録して開く
   - [よけとるUnityプロジェクト作成手順](https://docs.google.com/document/d/10HDFE0fprWh88hwVYvVyJAZyvBp30y1bbGNvQ_pt7_E/)
     - [プロジェクトの作成と解像度の設定](https://docs.google.com/document/d/1N_UfrUvo2DhkljkGx5Tt_l9DKqzU_x8NKye0AjIIWeg/)
-  - ゲームオブジェクトの作成
-  - ポストプロセス、文字など
+  - BGM再生
+
 
 ## 音のフォーマット
 - oggが最適。次がmp3。これらがない場合はwav
@@ -61,7 +81,6 @@
   - https://mp3cut.net/ja/
 - [Unity Technologies Japan. クリックするだけで効果音を自動生成する「bfxr」](http://inter-high-blog.unity3d.jp/2017/08/09/bfxr/)
   - [効果音作成ツールBfxr](http://www.bfxr.net/)
-
 
 
 # 10回目
