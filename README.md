@@ -40,6 +40,10 @@
       - エディターが開いたら完了。閉じてよい
      
 - 前回の続き。収集したアセットを使って、Unityでよけとるのモックアップを作る
+  - 前回のプロジェクトが未完成、あるいは、欠席で手元にない人は以下から入手して、ドキュメントの自分のフォルダー内に展開する
+    - `X:\2020年\ゲーム学科\Student\ゲームプログラム1年\yoketoru20200909.zip` をドキュメントの自分のフォルダーにコピー
+    - コピーしたyoketoru20200909.zipを右クリックして、 ここに展開 を選択
+    - 展開が完了したら、手順に従ってUnity Hubに登録して開く
   - [よけとるUnityプロジェクト作成手順](https://docs.google.com/document/d/10HDFE0fprWh88hwVYvVyJAZyvBp30y1bbGNvQ_pt7_E/)
     - [プロジェクトの作成と解像度の設定](https://docs.google.com/document/d/1N_UfrUvo2DhkljkGx5Tt_l9DKqzU_x8NKye0AjIIWeg/)
   - ゲームオブジェクトの作成
