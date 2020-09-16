@@ -40,6 +40,13 @@
   - ゲームオブジェクトの作成
   - ポストプロセス、文字など
 
+## 参考URL
+- 音の切り取りなど
+  - https://mp3cut.net/ja/
+- [Unity Technologies Japan. クリックするだけで効果音を自動生成する「bfxr」](http://inter-high-blog.unity3d.jp/2017/08/09/bfxr/)
+  - [効果音作成ツールBfxr](http://www.bfxr.net/)
+
+
 
 # 10回目
 ## 話題
