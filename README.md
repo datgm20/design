@@ -25,6 +25,7 @@
 **今後、プロジェクトが個別になる。休んだり、作業が追い付かずにプロジェクトの作成が完了できなかった場合は、出席した友達に手順を聞いて、次の講義までに作業を完了させておくこと。講義開始時に遅れている分については原則としてフォローの対象外とする。**
 
 ## 話題
+- [ゲームクリエイター甲子園2020](https://game.creators-guild.com/gck2020/)
 - [o8que. PUN2で始めるオンラインゲーム開発入門](https://connect.unity.com/p/pun2deshi-meruonraingemukai-fa-ru-men-sono1)
 - [unity1week online共有会 #2-A](https://youtu.be/rao90BS-OX8)
 
