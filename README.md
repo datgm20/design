@@ -42,6 +42,7 @@
   - [よけとるUnityプロジェクト作成手順](https://docs.google.com/document/d/10HDFE0fprWh88hwVYvVyJAZyvBp30y1bbGNvQ_pt7_E/)
   - TinyAudioを完成させる
   - [2Dグラフィックの仕様](yoketoru-unity-2d.pdf)
+    - 参考 [Graviyオブジェクト、アニメ設定例](GraviyImageSample.unitypackage)
   - ゲームオブジェクトの作成
   - ゲーム画面のレイアウト
   - ポストプロセス、文字など
