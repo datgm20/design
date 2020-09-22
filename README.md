@@ -35,6 +35,7 @@
 - [o8que. PUN2で始めるオンラインゲーム開発入門](https://connect.unity.com/p/pun2deshi-meruonraingemukai-fa-ru-men-sono1)
 - [unity1week online共有会 #2-B](https://youtu.be/SS_2VbdzSL0)
 - [unity1week online共有会 #2-A](https://youtu.be/rao90BS-OX8)
+- [UnityでLEGO®の世界に入り込もう！ - Unityステーション](https://www.youtube.com/watch?v=-dm2zGotAWY&feature=youtu.be)
 
 ## yoketoru2020前回の振り返り
 - 容量がオーバーしている場合、Pushしていない
