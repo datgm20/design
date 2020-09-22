@@ -43,6 +43,8 @@
   - TinyAudioを完成させる
   - [2Dグラフィックの仕様](yoketoru-unity-2d.pdf)
     - 参考 [Graviyオブジェクト、アニメ設定例](GraviyImageSample.unitypackage)
+      - Download して、 UnityのProjectウィンドウにドラッグ&ドロップしてインポート
+      - サンプルシーンを開いて、オブジェクトの構成、Animatorによるアニメーション制御、画像データを確認
   - ゲームオブジェクトの作成
   - ゲーム画面のレイアウト
   - ポストプロセス、文字など
