@@ -41,6 +41,7 @@
 - yoketoru2020の開発
   - [よけとるUnityプロジェクト作成手順](https://docs.google.com/document/d/10HDFE0fprWh88hwVYvVyJAZyvBp30y1bbGNvQ_pt7_E/)
   - TinyAudioを完成させる
+  - [2Dグラフィックの仕様](yoketoru-unity-2d.pdf)
   - ゲームオブジェクトの作成
   - ゲーム画面のレイアウト
   - ポストプロセス、文字など
@@ -106,7 +107,7 @@
 
 
 # 9回目
-## 話題 
+## 話題
 - [真夏のアドベントカレンダー完了](http://assetstore.info/eventandcontest/adventcalendar/summer-advent-calendar-2020/)
 
 ## 前回の復習
@@ -442,4 +443,3 @@ kyubuns氏作の[Baum2](https://github.com/kyubuns/Baum2)の紹介。書き出�
   - Googleドキュメントでノートをとる
 - [キー入力練習](https://www.e-typing.ne.jp/)
   - [結果をここに報告]()
-
