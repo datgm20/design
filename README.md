@@ -1,3 +1,5 @@
+## 注：9/30が講義がある前提で進めましたが休講でした。次回は10/7です
+
 # 基礎実習(ゲームデザイン実習) デジタルアーツ東京2020年度生
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tm4AUjwjQr72mPJg?e=bcG9Lr)
 - [質問](https://meet.google.com/dyf-fsns-kou)
@@ -44,7 +46,7 @@
 - TinyAudioスクリプトの作成とアタッチ
 
 
-## 予定
+## 内容
 - gp20アカウントで開始
 - yoketoru2020の開発
   - [よけとるUnityプロジェクト作成手順](https://docs.google.com/document/d/10HDFE0fprWh88hwVYvVyJAZyvBp30y1bbGNvQ_pt7_E/)
