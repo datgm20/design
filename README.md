@@ -36,6 +36,7 @@
 
 ## 予定
 - 明日の発表について
+  - [作業日時記録の例](https://docs.google.com/document/d/1JQU31aMhLupgDq82Z-iwynaMixFhdggLth3wsMWyhbc/)
 - これまでやったことの確認とドット絵の状況聞き取り
 - ゲームオブジェクトの作成
 - ゲーム画面のレイアウト
