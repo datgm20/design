@@ -35,7 +35,8 @@
 - [OPTPiX SpriteStudio無料化](https://www.webtech.co.jp/spritestudio/index.html)
 
 ## 予定
-- 動作確認
+- 明日の発表について
+- 前回までの動作確認
 - ゲームオブジェクトの作成
 - ゲーム画面のレイアウト
 - ポストプロセス、文字など
