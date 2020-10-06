@@ -16,6 +16,7 @@
 - [Adobe. モバイルアプリおよびゲームエンジン用アニメーションの書き出し](https://helpx.adobe.com/jp/animate/using/create-sprite-sheet.html)
 
 ## Unity Tips
+- [Unityのキーやクリック入力](https://youtu.be/JEkGwMsfhJw)
 - [シーンの切り替え方、追加読み込み](https://docs.google.com/document/d/1b-fEcK0ukqNPFud4aNV1lige0wnLZwxQnathiJFyz3M/)
 - [アニメーション](https://docs.google.com/document/d/1TSYwJRlmwFLufuDN7bT1jhf4M9AEYWgyK7dw1N3k2nQ/)
 - [パーティクル](https://docs.google.com/document/d/13vWsBWsutopnjLn1TbvYh8lVDws4ZXi6JmjSfXX6gUw/)
