@@ -33,6 +33,11 @@
 ## 話題
 - [OPTPiX SpriteStudio無料化](https://www.webtech.co.jp/spritestudio/index.html)
 
+## 予定
+- 動作確認
+- ゲームオブジェクトの作成
+- ゲーム画面のレイアウト
+- ポストプロセス、文字など
 
 ---
 
@@ -60,14 +65,17 @@
 - yoketoru2020の開発
   - [よけとるUnityプロジェクト作成手順](https://docs.google.com/document/d/10HDFE0fprWh88hwVYvVyJAZyvBp30y1bbGNvQ_pt7_E/)
   - TinyAudioを完成させる
-  - [2Dグラフィックの仕様](yoketoru-unity-2d.pdf)
-    - 参考 [Graviyオブジェクト、アニメ設定例](GraviyImageSample.unitypackage)
-      - Download して、 UnityのProjectウィンドウにドラッグ&ドロップしてインポート
-      - サンプルシーンを開いて、オブジェクトの構成、Animatorによるアニメーション制御、画像データを確認
-  - ゲームオブジェクトの作成
-  - ゲーム画面のレイアウト
-  - ポストプロセス、文字など
-
+  - VisualStudioの設定が2019になっていないPCがあったため、その対処
+- [2Dグラフィックの仕様](yoketoru-unity-2d.pdf)
+  - 参考 [Graviyオブジェクト、アニメ設定例](GraviyImageSample.unitypackage)
+    - Download して、 UnityのProjectウィンドウにドラッグ&ドロップしてインポート
+    - サンプルシーンを開いて、オブジェクトの構成、Animatorによるアニメーション制御、画像データを確認
+- Unityのシーン切り替え
+  - ClickToNextSceneスクリプト
+- Unityの入力システム
+  - Input.GetButtonDonw()など
+- 効果音がシーン跨ぎで途切れる
+  - 今回の解決策 → 次のシーンで鳴らす
 
 # 11回目
 
