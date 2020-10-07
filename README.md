@@ -3,7 +3,7 @@
 # 基礎実習(ゲームデザイン実習) デジタルアーツ東京2020年度生
 - [シラバス](https://1drv.ms/x/s!Anf4PowESFUjg_tm4AUjwjQr72mPJg?e=bcG9Lr)
 - [質問](https://meet.google.com/dyf-fsns-kou)
-- [ホペカリョウ二流魔導士リフ【弾幕ゲー】](https://unityroom.com/games/reflection_barrage)
+- [ホペカリョウ. 二流魔導士リフ【弾幕ゲー】](https://unityroom.com/games/reflection_barrage)
 
 # 参考資料
 - [伊藤 周, Kitposition ～きっとポジション～. ユニティちゃんが教える！初心者向けUnity講座](https://www.udemy.com/course/unity-chan-tutorial-01/)
