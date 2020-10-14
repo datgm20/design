@@ -32,8 +32,9 @@
 
 # 後期2回目
 ## 予定
-- ゲームオブジェクトの作成
 - ゲーム画面のレイアウト
+  - [作業メモ](https://docs.google.com/document/d/1UyNp9y0emWYuUkayISoxBaVxOJznqqmv9dGKhHwVVpk/)
+- ゲームオブジェクトの作成
 - ポストプロセス、文字など
 
 # 後期1回目
