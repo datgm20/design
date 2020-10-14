@@ -30,18 +30,21 @@
 - [講義ふり返り動画-11 9/16](https://youtu.be/j1VHnsWVV48)
 - [講義ふり返り動画-10 9/9](https://youtu.be/4ObJgOItdJY)
 
+# 後期2回目
+## 予定
+- ゲームオブジェクトの作成
+- ゲーム画面のレイアウト
+- ポストプロセス、文字など
 
 # 後期1回目
 ## 話題
 - [OPTPiX SpriteStudio無料化](https://www.webtech.co.jp/spritestudio/index.html)
 
-## 予定
+## 内容
 - 明日の発表について
   - [作業日時記録の例](https://docs.google.com/document/d/1JQU31aMhLupgDq82Z-iwynaMixFhdggLth3wsMWyhbc/)
 - これまでやったことの確認とドット絵の状況聞き取り
 - ゲームオブジェクトの作成
-- ゲーム画面のレイアウト
-- ポストプロセス、文字など
 
 ---
 
