@@ -30,8 +30,15 @@
 - [講義ふり返り動画-11 9/16](https://youtu.be/j1VHnsWVV48)
 - [講義ふり返り動画-10 9/9](https://youtu.be/4ObJgOItdJY)
 
-# 後期2回目
+# 後期3回目
 ## 予定
+- タイトル、ゲームオーバー、クリア画面を仕上げる
+- エフェクト
+  - [パーティクル](https://docs.google.com/document/d/13vWsBWsutopnjLn1TbvYh8lVDws4ZXi6JmjSfXX6gUw/)
+- [アニメーション](https://docs.google.com/document/d/1TSYwJRlmwFLufuDN7bT1jhf4M9AEYWgyK7dw1N3k2nQ/)
+
+# 後期2回目
+## 内容
 - ゲーム画面のレイアウト
   - [作業メモ](https://docs.google.com/document/d/1UyNp9y0emWYuUkayISoxBaVxOJznqqmv9dGKhHwVVpk/)
 - ゲームオブジェクトの作成
