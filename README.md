@@ -38,6 +38,7 @@
 - エフェクト
   - [パーティクル](https://docs.google.com/document/d/13vWsBWsutopnjLn1TbvYh8lVDws4ZXi6JmjSfXX6gUw/)
 - [アニメーション](https://docs.google.com/document/d/1TSYwJRlmwFLufuDN7bT1jhf4M9AEYWgyK7dw1N3k2nQ/)
+- Prototype Packの動画による演習
 
 # 後期2回目
 ## 内容
