@@ -28,15 +28,26 @@
 - [講義ふり返り動画-11 9/16](https://youtu.be/j1VHnsWVV48)
 - [講義ふり返り動画-10 9/9](https://youtu.be/4ObJgOItdJY)
 
+# 後期4回目
+## ディスカッション
+- 「知らないから調べられない」は本当だろうか
+  - 検索ワードを考える
+  - 検索結果にちゃんと目を通す
+  - C++とC#が登場した時期は？
+  - それぞれの特徴、メリット、デメリット
+  - プログラミング言語の人気
+
+## 予定
+- エフェクト
+  - [パーティクル](https://docs.google.com/document/d/13vWsBWsutopnjLn1TbvYh8lVDws4ZXi6JmjSfXX6gUw/)
+
 # 後期3回目
 ## 話題
 - [Prototype Pack](https://www.youtube.com/watch?v=PePmcIcRwxE)
   - アセットの利用方法とクーポンコード紹介(10/21まで)
 
-## 予定
+## 内容
 - タイトル、ゲームオーバー、クリア画面を仕上げる
-- エフェクト
-  - [パーティクル](https://docs.google.com/document/d/13vWsBWsutopnjLn1TbvYh8lVDws4ZXi6JmjSfXX6gUw/)
 - [アニメーション](https://docs.google.com/document/d/1TSYwJRlmwFLufuDN7bT1jhf4M9AEYWgyK7dw1N3k2nQ/)
 - Prototype Packの動画による演習
 
