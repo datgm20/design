@@ -4,6 +4,7 @@
 - [ホペカリョウ. 二流魔導士リフ【弾幕ゲー】](https://unityroom.com/games/reflection_barrage)
 
 # 参考資料
+- [Unity Japan Youtubeチャンネル](https://www.youtube.com/c/Unity3DJapan/videos)
 - [伊藤 周, Kitposition ～きっとポジション～. ユニティちゃんが教える！初心者向けUnity講座](https://www.udemy.com/course/unity-chan-tutorial-01/)
   - Unity2019.3.x(最新版)
 - [キー入力スコア報告](https://docs.google.com/spreadsheets/d/10VcsR850aqWKN-C6tEuSExmgqET3EMH81KonU-yz7aI/)
@@ -36,6 +37,7 @@
   - C++とC#が登場した時期は？
   - それぞれの特徴、メリット、デメリット
   - プログラミング言語の人気
+- [Unity Japan Youtubeチャンネル](https://www.youtube.com/c/Unity3DJapan/videos)
 
 ## 予定
 - エフェクト
