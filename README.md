@@ -37,6 +37,7 @@
   - C++とC#が登場した時期は？
   - それぞれの特徴、メリット、デメリット
   - プログラミング言語の人気
+- クリエイターとは。ゲームプログラマーとは
 - [Unity Japan Youtubeチャンネル](https://www.youtube.com/c/Unity3DJapan/videos)
 
 ## 予定
