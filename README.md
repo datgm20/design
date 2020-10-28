@@ -29,6 +29,14 @@
 - [講義ふり返り動画-11 9/16](https://youtu.be/j1VHnsWVV48)
 - [講義ふり返り動画-10 9/9](https://youtu.be/4ObJgOItdJY)
 
+# 後期5回目
+## パーティクルを探しておく
+- アイテムを取った時、敵にぶつかった時の2種類のパーティクルを探しておく
+  - 作業しているPCでダウンロードして、新規プロジェクトに読み込んで試しておくとよい
+
+## 予定
+- 選んだパーティクルを、よけとるに組み込む
+
 # 後期4回目
 ## ディスカッション
 - 「知らないから調べられない」は本当だろうか
@@ -40,7 +48,7 @@
 - クリエイターとは。ゲームプログラマーとは
 - [Unity Japan Youtubeチャンネル](https://www.youtube.com/c/Unity3DJapan/videos)
 
-## 予定
+## 内容
 - エフェクト
   - [パーティクル](https://docs.google.com/document/d/13vWsBWsutopnjLn1TbvYh8lVDws4ZXi6JmjSfXX6gUw/)
 
