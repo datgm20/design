@@ -30,6 +30,10 @@
 - [講義ふり返り動画-10 9/9](https://youtu.be/4ObJgOItdJY)
 
 # 後期5回目
+## 話題
+- [gamesindustry.biz. Brenda Romero氏のパーソナルブランド構築のヒント](https://jp.gamesindustry.biz/article/2011/20110202/)
+- [paiza新卒. オンライン開催の3社に聞く！22卒向け夏インターンへの思い](https://paiza.jp/student/advice/intern-2020summer)
+
 ## パーティクルを探しておく
 - アイテムを取った時、敵にぶつかった時の2種類のパーティクルを探しておく
   - 作業しているPCでダウンロードして、新規プロジェクトに読み込んで試しておくとよい
