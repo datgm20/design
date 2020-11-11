@@ -26,6 +26,20 @@
 - [講義ふり返り動画-11 9/16](https://youtu.be/j1VHnsWVV48)
 - [講義ふり返り動画-10 9/9](https://youtu.be/4ObJgOItdJY)
 
+# 後期6回目
+## 予定
+- WebGLビルド
+- UnityRoomに公開
+  - [naichi. unityroomに投稿する方法](https://blog.naichilab.com/entry/how-to-upload-unityroom)
+
+## 読解演習
+[山市良のうぃんどうず日記. Windows 10 バージョン1903以降へのアップグレードで突如判明した「証明書消失問題」とは](https://www.atmarkit.co.jp/ait/articles/2011/11/news008.html)
+
+この記事を読み、学校がこの問題について対策する必要があるかどうかを判断して、そう判断した根拠と理由を説明してください。回答は、以下の回答フォームへ。
+
+- [回答フォーム](https://forms.gle/fnxbULQEZ6yj23yXA)
+
+
 # 後期5回目
 ## 話題
 - [gamesindustry.biz. Brenda Romero氏のパーソナルブランド構築のヒント](https://jp.gamesindustry.biz/article/2011/20110202/)
@@ -35,16 +49,9 @@
 - アイテムを取った時、敵にぶつかった時の2種類のパーティクルを探しておく
   - 作業しているPCでダウンロードして、新規プロジェクトに読み込んで試しておくとよい
 
-## 予定
+## 内容
 - 選んだパーティクルを、よけとるに組み込む
   - [パーティクル](https://docs.google.com/document/d/13vWsBWsutopnjLn1TbvYh8lVDws4ZXi6JmjSfXX6gUw/)
-
-## 読解演習
-[山市良のうぃんどうず日記. Windows 10 バージョン1903以降へのアップグレードで突如判明した「証明書消失問題」とは](https://www.atmarkit.co.jp/ait/articles/2011/11/news008.html)
-
-この記事を読み、学校がこの問題について対策する必要があるかどうかを判断して、そう判断した根拠と理由を説明してください。回答は、以下の回答フォームへ。
-
-- [回答フォーム](https://forms.gle/fnxbULQEZ6yj23yXA)
 
 # 後期4回目
 ## ディスカッション
