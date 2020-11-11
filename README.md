@@ -31,6 +31,7 @@
 - WebGLビルド
 - UnityRoomに公開
   - [naichi. unityroomに投稿する方法](https://blog.naichilab.com/entry/how-to-upload-unityroom)
+  - [限定公開したURLを報告](https://forms.gle/Wm5MPZP8nv33phgJ9)
 
 ## 読解演習
 [山市良のうぃんどうず日記. Windows 10 バージョン1903以降へのアップグレードで突如判明した「証明書消失問題」とは](https://www.atmarkit.co.jp/ait/articles/2011/11/news008.html)
