@@ -37,6 +37,7 @@
 
 ## 予定
 - 選んだパーティクルを、よけとるに組み込む
+  - [パーティクル](https://docs.google.com/document/d/13vWsBWsutopnjLn1TbvYh8lVDws4ZXi6JmjSfXX6gUw/)
 
 ## 読解演習
 [山市良のうぃんどうず日記. Windows 10 バージョン1903以降へのアップグレードで突如判明した「証明書消失問題」とは](https://www.atmarkit.co.jp/ait/articles/2011/11/news008.html)
