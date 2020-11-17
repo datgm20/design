@@ -27,6 +27,9 @@
 - [講義ふり返り動画-10 9/9](https://youtu.be/4ObJgOItdJY)
 
 # 後期6回目
+## 話題
+- [Unity入門の森. 【unityで防衛ゲーム開発】タワーディフェンスゲームの作り方](https://twitter.com/divideby_zero/status/1328582730649579521)
+
 ## 予定
 - タイムとスコアの管理
 - WebGLビルド
