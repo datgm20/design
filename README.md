@@ -28,8 +28,9 @@
 
 # 後期6回目
 ## 予定
+- タイムとスコアの管理
 - WebGLビルド
-- UnityRoomに公開
+- UnityRoomに限定公開
   - [naichi. unityroomに投稿する方法](https://blog.naichilab.com/entry/how-to-upload-unityroom)
   - [限定公開したURLを報告](https://forms.gle/Wm5MPZP8nv33phgJ9)
 
