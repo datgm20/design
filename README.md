@@ -33,7 +33,7 @@
 - [Unity入門の森. 【unityで防衛ゲーム開発】タワーディフェンスゲームの作り方](https://twitter.com/divideby_zero/status/1328582730649579521)
 
 ## 予定
-- タイムとスコアの管理
+- [タイムとスコアの管理](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
 - WebGLビルド
 - UnityRoomに限定公開
   - [naichi. unityroomに投稿する方法](https://blog.naichilab.com/entry/how-to-upload-unityroom)
