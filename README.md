@@ -26,18 +26,18 @@
 - [講義ふり返り動画-11 9/16](https://youtu.be/j1VHnsWVV48)
 - [講義ふり返り動画-10 9/9](https://youtu.be/4ObJgOItdJY)
 
-# 後期7回目
+# 後期8回目
 ## 話題
 - [paiza開発日誌. プログラミングがゲーム感覚で学べる！スキルチェック問題とは](https://paiza.hatenablog.com/entry/2020/11/16/133000)
   - レーティングアップキャンペーン中
 - [Unity入門の森. 【unityで防衛ゲーム開発】タワーディフェンスゲームの作り方](https://twitter.com/divideby_zero/status/1328582730649579521)
 
 ## 予定
-- [ハイスコアの記録、ネットランキング](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
 - WebGLビルド
 - UnityRoomに限定公開
   - [naichi. unityroomに投稿する方法](https://blog.naichilab.com/entry/how-to-upload-unityroom)
   - [限定公開したURLを報告](https://forms.gle/Wm5MPZP8nv33phgJ9)
+- 企画会議
 
 ## 読解演習
 [山市良のうぃんどうず日記. Windows 10 バージョン1903以降へのアップグレードで突如判明した「証明書消失問題」とは](https://www.atmarkit.co.jp/ait/articles/2011/11/news008.html)
@@ -45,6 +45,11 @@
 この記事を読み、学校がこの問題について対策する必要があるかどうかを判断して、そう判断した根拠と理由を説明してください。回答は、以下の回答フォームへ。
 
 - [回答フォーム](https://forms.gle/fnxbULQEZ6yj23yXA)
+
+
+# 後期7回目
+## 内容
+- [ハイスコアの記録、ネットランキング](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
 
 
 # 後期6回目
