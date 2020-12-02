@@ -26,18 +26,25 @@
 - [講義ふり返り動画-11 9/16](https://youtu.be/j1VHnsWVV48)
 - [講義ふり返り動画-10 9/9](https://youtu.be/4ObJgOItdJY)
 
-# 後期8回目
-## 話題
-- [paiza開発日誌. プログラミングがゲーム感覚で学べる！スキルチェック問題とは](https://paiza.hatenablog.com/entry/2020/11/16/133000)
-  - レーティングアップキャンペーン中
-- [Unity入門の森. 【unityで防衛ゲーム開発】タワーディフェンスゲームの作り方](https://twitter.com/divideby_zero/status/1328582730649579521)
-- [Mumiさん. マルマルガール](https://mobile.twitter.com/mumimumi2000/status/1333006315614916608)
+# 後期9回目(12/9)
+## 課題
+- 問題発生！！
+  - 名前を入力しようとしてクリックしたら、タイトルに戻ってしまう
+- 原因
+  - ゲームオーバーやクリアシーンのClickToNextSceneスクリプトで、Update()で毎回クリックされたらタイトルに戻る処理が動いていること
+- 解決案
+  - 案1　ランキング表示中は、画面切り替えが発生しないようなチェックを入れる
+  - 案2　コードでクリックしたかを判定するのではなく、見えないボタンをランキングより下に作って、それが押されたら次のシーンにいくようにする
+- 課題
+  - 上記の解決策のいずれか、あるいはその他の手段を使って、ランキングに名前を入力したり、登録できるようにする。
+
+### 提出方法
+問題解決した状態でビルドして、unityroomにアップロードしなおす。
 
 ## 予定
-- WebGLビルド
-- UnityRoomに限定公開
-  - [naichi. unityroomに投稿する方法](https://blog.naichilab.com/entry/how-to-upload-unityroom)
-  - [限定公開したURLを報告](https://forms.gle/Wm5MPZP8nv33phgJ9)
+- よけとるまとめ
+- よけとるのドキュメント作成
+- スクリーンショットの作成
 - 企画会議
 
 ## 読解演習
@@ -47,6 +54,19 @@
 
 - [回答フォーム](https://forms.gle/fnxbULQEZ6yj23yXA)
 
+
+# 後期8回目
+## 話題
+- [paiza開発日誌. プログラミングがゲーム感覚で学べる！スキルチェック問題とは](https://paiza.hatenablog.com/entry/2020/11/16/133000)
+  - レーティングアップキャンペーン中
+- [Unity入門の森. 【unityで防衛ゲーム開発】タワーディフェンスゲームの作り方](https://twitter.com/divideby_zero/status/1328582730649579521)
+- [Mumiさん. マルマルガール](https://mobile.twitter.com/mumimumi2000/status/1333006315614916608)
+
+## 内容
+- WebGLビルド
+- UnityRoomに限定公開
+  - [naichi. unityroomに投稿する方法](https://blog.naichilab.com/entry/how-to-upload-unityroom)
+  - [限定公開したURLを報告](https://forms.gle/Wm5MPZP8nv33phgJ9)
 
 # 後期7回目
 ## 内容
