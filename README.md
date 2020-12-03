@@ -27,6 +27,10 @@
 - [講義ふり返り動画-10 9/9](https://youtu.be/4ObJgOItdJY)
 
 # 後期9回目(12/9)
+## 話題
+- [Unityの教科書](https://www.amazon.co.jp/dp/481560665X/ref=cm_sw_r_tw_dp_x_manYFb8N00RF1)
+- [UnityではじめるC# 基礎編 改訂版](https://twitter.com/Kumanbow/status/1333646730177363970)
+
 ## 課題
 - 問題発生！！
   - 名前を入力しようとしてクリックしたら、タイトルに戻ってしまう
