@@ -49,6 +49,7 @@
 問題解決した状態でビルドして、unityroomにアップロードしなおす。
 
 ## 予定
+- [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
 - よけとるまとめ
 - よけとるのドキュメント作成
 - [スクリーンショットの作成](https://docs.google.com/document/d/1omv9vn84ztpiBCGm4Eyme0eohL4_GqO1SCbUB4LGNTg/)
