@@ -57,8 +57,18 @@
 ## 予定
 - [作業メモ](https://docs.google.com/document/d/1TitF-5ov9OM4zRjFg4tV_JbpWgx-swMNc6PDf8bMZJc/)
 - よけとるまとめ
-- よけとるのドキュメント作成
 - [スクリーンショットの作成](https://docs.google.com/document/d/1omv9vn84ztpiBCGm4Eyme0eohL4_GqO1SCbUB4LGNTg/)
+- よけとるのドキュメント作成
+  - 基本情報
+    - アイコン、タイトル、想定プレイ時間
+  - WebGL設定
+    - 操作方法に、操作方法、ゲームの概要、ルールを書く
+  - カテゴリ設定
+    - 適宜、よさそうなものを設定
+  - タグ設定
+    - 適宜、よさそうなものを設定
+  - 使用アセット
+    - 利用したアセットを全て登録
 - 企画会議
 
 ## 読解演習
