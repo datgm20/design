@@ -29,7 +29,8 @@
 
 # 後期10回目(12/16)
 ## 話題
-- Unityインターハイ
+- [Unityインターハイ](https://inter-high.unity3d.jp/)
+  - [ヤスハラユウジ. ソースコードとUnityインターハイ](https://note.com/dsedb/n/nfc454c8fab0d)
 
 ## 予定
 - Slackへの登録
