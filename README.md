@@ -32,6 +32,7 @@
 - [Unityインターハイ](https://inter-high.unity3d.jp/)
   - [ヤスハラユウジ. ソースコードとUnityインターハイ](https://note.com/dsedb/n/nfc454c8fab0d)
 - [Gotanda.unity #16](https://meetup.unity3d.jp/jp/events/1268)
+  - [Gotanda.unity アーカイブ](https://twitter.com/lycoris102/status/1338360279915143171)
 
 ## 予定
 - Slackへの登録
