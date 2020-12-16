@@ -38,7 +38,7 @@
 
 ## 今日のテーマ
 - 読解と作文
-- [Slackの利用](https://join.slack.com/t/datgm20/shared_invite/zt-k1qwih0j-o9Hl3SYOwD3WC01Z2JaXnQ)
+- [Slackの利用]()
 - 企画会議
 - (Unityプロジェクトの作成)
 
