@@ -28,6 +28,17 @@
 - [講義ふり返り動画-11 9/16](https://youtu.be/j1VHnsWVV48)
 - [講義ふり返り動画-10 9/9](https://youtu.be/4ObJgOItdJY)
 
+# 後期11回目(12/23)
+## 先週の読解の振り返り
+- [解答一覧](https://github.com/datgm20/design/wiki/%E5%BE%8C%E6%9C%9F10%E5%9B%9E%E7%9B%AE%E8%AA%AD%E8%A7%A3%E4%BD%9C%E6%96%87%E7%B7%B4%E7%BF%92)
+
+## 予定
+- Slackを開いて作業開始報告
+- 企画発表
+- 1週間ゲームジャム作業
+- Slackに作業報告
+
+
 # 後期10回目(12/16)
 ## 話題
 - [Unityインターハイ](https://inter-high.unity3d.jp/)
