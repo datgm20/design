@@ -32,18 +32,22 @@
 ## 先週の読解の振り返り
 - [解答一覧](https://github.com/datgm20/design/wiki/%E5%BE%8C%E6%9C%9F10%E5%9B%9E%E7%9B%AE%E8%AA%AD%E8%A7%A3%E4%BD%9C%E6%96%87%E7%B7%B4%E7%BF%92)
 
+## 話題
+- [Unityステーション. ハイパーカジュアルゲームナイト - Voodooゲームコンテスト2020冬 開催のお知らせ](https://www.youtube.com/watch?v=1Jhdf3aV4wI)
+  - [作品紹介](https://youtu.be/1Jhdf3aV4wI?t=282)
+  - [ランアクションのガイドライン](https://youtu.be/1Jhdf3aV4wI?t=1472)
+  - [物理パズルのガイドライン](https://youtu.be/1Jhdf3aV4wI?t=2452)
+
 ## 予定
 - Slackを開いて作業開始報告
 - 企画検討
   - シューティングゲームは結構大変なので、プログラミングが苦手な人は選ばない方がよい
     - プレイヤー、敵、プレイヤーの弾、敵の弾など、役割が多いため
   - なるべくプレイヤーのみで成立するルールを考える
-  - [Unityステーション. ハイパーカジュアルゲームナイト - Voodooゲームコンテスト2020冬 開催のお知らせ](https://www.youtube.com/watch?v=1Jhdf3aV4wI)
-    - [作品紹介](https://youtu.be/1Jhdf3aV4wI?t=282)
-    - [ランアクションのガイドライン](https://youtu.be/1Jhdf3aV4wI?t=1472)
-    - [物理パズルのガイドライン](https://youtu.be/1Jhdf3aV4wI?t=2452)
 - 1週間ゲームジャム作業
-- Slackに作業報告
+- unityroom に仮投稿をして、限定公開して、いかにURLを報告
+  - [1週間ゲームジャムURL](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
+- Slackに作業結果の報告
 
 
 # 後期10回目(12/16)
