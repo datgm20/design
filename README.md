@@ -28,6 +28,40 @@
 - [講義ふり返り動画-11 9/16](https://youtu.be/j1VHnsWVV48)
 - [講義ふり返り動画-10 9/9](https://youtu.be/4ObJgOItdJY)
 
+# 後期12回目(1/6)
+## 今後の予定
+- 1週間ゲームジャムのまとめ：ポートフォリオページの作成
+- 作品を提出できる状態に整理：README.txt / 命名規則 / .editorconfig
+  - 設計のヒント
+- 2時間ゲームジャム
+
+いつリモートになるか分からないので、Google MeetとSlackのみになっても対応できるように心構えをしておくこと。
+
+## 1週間ゲームジャムふり返り
+- 公開作品
+  - https://unityroom.com/games/aketasu
+  - https://unityroom.com/games/manbo-ga-takusann-rashii
+  - https://unityroom.com/games/snowsiege
+- 公開していて未報告の人は以下へ報告
+  - [1週間ゲームジャムURL](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
+
+## Webでポートフォリオを作成
+- [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+  - https://www.e-aidem.com/ch/jimocoro/entry/otakana01
+  - [paiza. HTML/CSS入門編](https://paiza.jp/works/html/primer)
+  - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+  - [GitHub PagesにHTMLでユーザーページを作成する](https://docs.google.com/document/d/1Og0Oxw_tvhBET3cDLhx9p9qD6tPGaL2TyzBSZmTTsOU/)
+- 参考
+  - [Chomado’s Portfolio (ちょまど)](https://chomado.com/)
+  - [GreeningEx2019の紹介ページ](https://dat18.github.io/works/GreeningEx2019Exe/)
+  - https://itigo-kuma777.ssl-lolipop.jp/
+  - https://yuutea335.hatenablog.com/
+
+## 残り
+- 1週間ゲームジャム公開済み → ポートフォリオを仕上げる
+- 1週間ゲームジャム未完成 → 作品開発を先行させる
+
+
 # 後期11回目(12/23)
 ## 先週の読解の振り返り
 - [解答一覧](https://github.com/datgm20/design/wiki/%E5%BE%8C%E6%9C%9F10%E5%9B%9E%E7%9B%AE%E8%AA%AD%E8%A7%A3%E4%BD%9C%E6%96%87%E7%B7%B4%E7%BF%92)
@@ -38,7 +72,7 @@
   - [ランアクションのガイドライン](https://youtu.be/1Jhdf3aV4wI?t=1472)
   - [物理パズルのガイドライン](https://youtu.be/1Jhdf3aV4wI?t=2452)
 
-## 予定
+## 内容
 - Slackを開いて作業開始報告
 - 企画検討
   - シューティングゲームは結構大変なので、プログラミングが苦手な人は選ばない方がよい
