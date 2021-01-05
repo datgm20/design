@@ -60,6 +60,7 @@
   - [GreeningEx2019の紹介ページ](https://dat18.github.io/works/GreeningEx2019Exe/)
   - https://itigo-kuma777.ssl-lolipop.jp/
   - https://yuutea335.hatenablog.com/
+  - [LAPRAS Inc. ポートフォリオ自動作成サービス](https://lapras.com/)
 
 ## 残り
 - 1週間ゲームジャム公開済み → ポートフォリオを仕上げる
