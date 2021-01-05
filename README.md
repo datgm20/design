@@ -52,10 +52,9 @@
 
 ## Webでポートフォリオを作成
 - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+  - [GitHub Pagesにポートフォリオページを作成する](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
   - https://www.e-aidem.com/ch/jimocoro/entry/otakana01
   - [paiza. HTML/CSS入門編](https://paiza.jp/works/html/primer)
-  - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
-  - [GitHub PagesにHTMLでユーザーページを作成する](https://docs.google.com/document/d/1Og0Oxw_tvhBET3cDLhx9p9qD6tPGaL2TyzBSZmTTsOU/)
 - 参考
   - [Chomado’s Portfolio (ちょまど)](https://chomado.com/)
   - [GreeningEx2019の紹介ページ](https://dat18.github.io/works/GreeningEx2019Exe/)
