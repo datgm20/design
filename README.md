@@ -33,14 +33,20 @@
 - [講義ふり返り動画-11 9/16](https://youtu.be/j1VHnsWVV48)
 - [講義ふり返り動画-10 9/9](https://youtu.be/4ObJgOItdJY)
 
-# 後期12回目(1/6)
 ## 今後の予定
 - 1週間ゲームジャムのまとめ：ポートフォリオページの作成
-- 作品を提出できる状態に整理：README.txt / 命名規則 / .editorconfig
-  - 設計のヒント
 - [グループ学習](https://github.com/datgm20/design/wiki/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%AD%A6%E7%BF%92)： https://creator.cluster.mu/ をグループ学習で身につける。チュートリアルを交代して解説したり、終わらない学生を終わった学生がサポートするなどして、学生主体で使い方を理解していく
-- 2時間ゲームジャム
+- 2時間ゲームジャム(状況次第)
 
+# 後期13回目(1/13)
+## 予定
+- ポートフォリオまとめ。1週間ゲームジャムの作品を掲載する。URLの報告がまだの人は以下から報告
+  - [ポートフォリオURL](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
+- 作品を提出できる状態に整理：README.txtの作成
+- [グループ学習](https://github.com/datgm20/design/wiki/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%AD%A6%E7%BF%92)： https://creator.cluster.mu/ をグループ学習で身につける。チュートリアルを交代して解説したり、終わらない学生を終わった学生がサポートするなどして、学生主体で使い方を理解していく
+- 2時間ゲームジャム(状況次第)
+
+# 後期12回目(1/6)
 いつリモートになるか分からないので、Google MeetとSlackのみになっても対応できるように心構えをしておくこと。
 
 ## 1週間ゲームジャムふり返り
