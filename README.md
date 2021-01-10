@@ -41,7 +41,7 @@
 # 後期13回目(1/13)
 ## 話題
 - [【Oculus Quest/Quest2】名作「ICO」の影響を感じさせる新作VRパズルADV「Mare」発売](https://www.moguravr.com/visiontrick-media-mare/)
-  - [製作者を知る方のツイート](https://twitter.com/iron_drill/status/1346412859123666944
+  - [製作者を知る方のツイート](https://twitter.com/iron_drill/status/1346412859123666944)
 
 
 ## 予定
