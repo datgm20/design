@@ -39,6 +39,11 @@
 - 2時間ゲームジャム(状況次第)
 
 # 後期13回目(1/13)
+## 話題
+- [【Oculus Quest/Quest2】名作「ICO」の影響を感じさせる新作VRパズルADV「Mare」発売](https://www.moguravr.com/visiontrick-media-mare/)
+  - [製作者を知る方のツイート](https://twitter.com/iron_drill/status/1346412859123666944
+
+
 ## 予定
 - ポートフォリオまとめ。1週間ゲームジャムの作品を掲載する。URLの報告がまだの人は以下から報告
   - [ポートフォリオURL](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
