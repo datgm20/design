@@ -43,18 +43,21 @@
 - [【Oculus Quest/Quest2】名作「ICO」の影響を感じさせる新作VRパズルADV「Mare」発売](https://www.moguravr.com/visiontrick-media-mare/)
   - [製作者を知る方のツイート](https://twitter.com/iron_drill/status/1346412859123666944)
 
-
-## 予定
-- Google Meetで作品発表(一人5分程度で簡潔に)
-- 作品を提出できる状態に整理：README.txtの作成
-- ポートフォリオまとめ。1週間ゲームジャムの作品を掲載する。URLの報告がまだの人は以下から報告
-  - [ポートフォリオURL](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
-
 ## 明日と来週の予告
 - これからの進め方の参考にするため、数学と国語のテストを実施する
 - 明日の講義の11:30から数学、来週のこの時間の15:20から国語の筆記テスト
-- 期末テストのような扱いではなく、通常の講義時に実施している提出物と同様の日常点として扱う
+- 期末テストとしての扱いではなく、通常の講義で実施している提出物と同等の扱いなので特別に構えなくて大丈夫です
 - **筆記用具を持参**すること
+
+
+## 予定
+- 1週間ゲームジャム作品の開発は講義としては終了。今後は自主開発で
+- Google Meetで作品発表(一人5分程度で簡潔に)
+- 作品の提出整理について
+  - フォルダー構成、名前、README.txt、README.mdの一例
+- ポートフォリオまとめ。1週間ゲームジャムの作品を掲載する。URLの報告がまだの人は以下から報告
+  - [ポートフォリオURL](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
+  - 1週間ゲームジャムが未完成の学生は、次回から開始予定の https://creator.cluster.mu/ のWebページを読んで予習
 
 
 # 後期12回目(1/6)
