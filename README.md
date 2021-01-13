@@ -38,6 +38,7 @@
 - [グループ学習](https://github.com/datgm20/design/wiki/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%AD%A6%E7%BF%92)： https://creator.cluster.mu/ をグループ学習で身につける。チュートリアルを交代して解説したり、終わらない学生を終わった学生がサポートするなどして、学生主体で使い方を理解していく
 - 2時間ゲームジャム(状況次第)
 
+
 # 後期13回目(1/13)
 ## 話題
 - [【Oculus Quest/Quest2】名作「ICO」の影響を感じさせる新作VRパズルADV「Mare」発売](https://www.moguravr.com/visiontrick-media-mare/)
@@ -63,6 +64,20 @@
 - ポートフォリオまとめ。1週間ゲームジャムの作品を掲載する。URLの報告がまだの人は以下から報告
   - [ポートフォリオURL](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
   - 1週間ゲームジャムが未完成の学生は、次回から開始予定の https://creator.cluster.mu/ のWebページを読んで予習
+
+## 作業
+- ポートフォリオのまとめ
+  - GitHub Pagesに作成したポートフォリオページに、自分が作成した（作成中含む）1週間ゲームジャム作品の概要とスクリーンショット、unityroomへのリンクを作成
+  - 公開したポートフォリオのURLをまだ報告していない人は、以下に報告
+  - [ポートフォリオURL](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
+- 1週間ゲームジャム作品のREADME.txtとREADME.mdを作成する
+  - Kohka-main.zip 内の同名のファイルを参考に、自分の環境に合わせて書き換えて作成する
+- 提出用のフォルダーを作成して共有ドライブに提出
+  - 自分の名前のフォルダーを作成
+  - README.txtの「プロジェクトフォルダー構成」を参考に、Unityのプロジェクトフォルダー、実行ファイルが入っているフォルダー、README.txtを、作成した自分の名前のフォルダーにコピーする
+  - 作成した自分の名前のフォルダーを右クリック > 7-Zip > 圧縮 > アーカイブ形式を「zip」にする > OK で圧縮
+  - `X:\2020年\ゲーム学科\Student\ゲームプログラム1年\1週間ゲームジャム提出`フォルダー内に、圧縮したファイルをコピー
+
 
 
 # 後期12回目(1/6)
