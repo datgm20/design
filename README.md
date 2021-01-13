@@ -43,6 +43,7 @@
 ## 話題
 - [【Oculus Quest/Quest2】名作「ICO」の影響を感じさせる新作VRパズルADV「Mare」発売](https://www.moguravr.com/visiontrick-media-mare/)
   - [製作者を知る方のツイート](https://twitter.com/iron_drill/status/1346412859123666944)
+- [@Kotabrog. githubで使えるイカしたREADMEの作り方](https://qiita.com/Kotabrog/items/fb328b72ac94137897af)
 
 ## 明日と来週の予告
 - これからの進め方の参考にするため、数学と国語のテストを実施する
