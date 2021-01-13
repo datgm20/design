@@ -55,6 +55,11 @@
 - Google Meetで作品発表(一人5分程度で簡潔に)
 - 作品の提出整理について
   - フォルダー構成、名前、README.txt、README.mdの一例
+    - `X:\2020年\ゲーム学科\Student\ゲームプログラム1年\Kohka-main.zip` をデスクトップなどにコピー
+    - ダブルクリックして開く
+    - `Kohka-main`フォルダーをドラッグして、ドキュメントの自分のフォルダーにドロップして展開
+    - 展開した Kohka-main フォルダーを右クリックして、 Opeh with Atom で開く
+    - Unity Hudで Kohka-main フォルダーを追加して開けば、Unityで実行可能 
 - ポートフォリオまとめ。1週間ゲームジャムの作品を掲載する。URLの報告がまだの人は以下から報告
   - [ポートフォリオURL](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
   - 1週間ゲームジャムが未完成の学生は、次回から開始予定の https://creator.cluster.mu/ のWebページを読んで予習
