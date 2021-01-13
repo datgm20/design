@@ -73,6 +73,7 @@
   - https://unityroom.com/games/aketasu
   - https://unityroom.com/games/manbo-ga-takusann-rashii
   - https://unityroom.com/games/snowsiege
+  - https://unityroom.com/games/slide_do-or
 - 公開していて未報告の人は以下へ報告
   - [1週間ゲームジャムURL](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
 
