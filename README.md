@@ -7,6 +7,7 @@
 - [さいとー](https://unityroom.com/users/yvtlpm0ucazh4q3wr86k)
 - [sugita3](https://unityroom.com/users/fjwczugorbmn40e27a6x)
 - [ホペ](https://unityroom.com/users/hope_or_ryo)
+- [Noraうどん](https://unityroom.com/games/slide_do-or)
 
 # 参考資料
 - [GitHub DesktopのSign in](https://docs.google.com/document/d/1cVAS5IC22OBEy5YMAo-degFrwUws9nDNRiDFee_BHfY/)
@@ -44,20 +45,16 @@
 - 先週の数学と本日の国語のテストの結果は明日以降にお知らせします
 
 ## 予定
-- 15:20あたりから国語の筆記テスト
 - ポートフォリオのまとめ
   - GitHub Pagesに作成したポートフォリオページに、自分が作成した（作成中含む）1週間ゲームジャム作品の概要とスクリーンショット、unityroomへのリンクを作成
   - 公開したポートフォリオのURLをまだ報告していない人は、以下に報告
   - [ポートフォリオURL](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
 - 1週間ゲームジャム作品のREADME.txtとREADME.mdを作成する
   - Kohka-main.zip 内の同名のファイルを参考に、自分の環境に合わせて書き換えて作成する
+  - プロジェクトを提出した人には、フォルダー名やデザインなどで気になったところをコメントするので整理の手掛かりに
   - Unityプロジェクトの開き方項目を追加。起動シーンとターゲットの解像度を書いてあった方がチェックしやすかったため
-- 提出用のフォルダーを作成して共有ドライブに提出
-  - 自分の名前のフォルダーを作成
-  - README.txtの「プロジェクトフォルダー構成」を参考に、Unityのプロジェクトフォルダー、実行ファイルが入っているフォルダー、README.txtを、作成した自分の名前のフォルダーにコピーする
-  - 作成した自分の名前のフォルダーを右クリック > 7-Zip > 圧縮 > アーカイブ形式を「zip」にする > OK で圧縮
-  - `X:\2020年\ゲーム学科\Student\ゲームプログラム1年\1週間ゲームジャム提出`フォルダー内に、圧縮したファイルをコピー
-- 1週間ゲームジャムが未完成の学生は https://creator.cluster.mu/ のWebページを読んで予習
+- 1週間ゲームジャムが未完成の学生は https://creator.cluster.mu/ のWebページでチュートリアル開始
+- 15:20頃から国語の筆記テスト
 
 
 # 後期13回目(1/13)
