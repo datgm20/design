@@ -51,6 +51,7 @@
   - [ポートフォリオURL](https://docs.google.com/forms/d/e/1FAIpQLSeybZxNAzXfbbKKy3WlJu_jllNflj-beRZT4AfOwur5ELa93w/viewform?usp=sf_link)
 - 1週間ゲームジャム作品のREADME.txtとREADME.mdを作成する
   - Kohka-main.zip 内の同名のファイルを参考に、自分の環境に合わせて書き換えて作成する
+  - Unityプロジェクトの開き方項目を追加。起動シーンとターゲットの解像度を書いてあった方がチェックしやすかったため
 - 提出用のフォルダーを作成して共有ドライブに提出
   - 自分の名前のフォルダーを作成
   - README.txtの「プロジェクトフォルダー構成」を参考に、Unityのプロジェクトフォルダー、実行ファイルが入っているフォルダー、README.txtを、作成した自分の名前のフォルダーにコピーする
