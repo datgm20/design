@@ -39,6 +39,10 @@
 - [グループ学習](https://github.com/datgm20/design/wiki/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%AD%A6%E7%BF%92)： https://creator.cluster.mu/ をグループ学習で身につける。チュートリアルを交代して解説したり、終わらない学生を終わった学生がサポートするなどして、学生主体で使い方を理解していく
 - 2時間ゲームジャム(状況次第)
 
+# 後期15回目(1/27)
+## 話題
+- [小野憲史. GGJでUnityプロジェクトをアップロードする際のAsset Storeの扱いについてのツイート](https://twitter.com/kono3478/status/1353338790018830336)
+
 # 後期14回目(1/20)
 ## 話題
 - [unity1week online共有会 #3 1/23 21:00から](https://meetup.unity3d.jp/jp/events/1270)
