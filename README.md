@@ -42,6 +42,7 @@
 # 後期15回目(1/27)
 ## 話題
 - [小野憲史. GGJでUnityプロジェクトをアップロードする際のAsset Storeの扱いについてのツイート](https://twitter.com/kono3478/status/1353338790018830336)
+- [日経ソフトウェア. JavaScript+HTML5版ぷよぷよプログラミング全コード完全掲載](https://info.nikkeibp.co.jp/media/NSW/atcl/mag/011900034/)
 
 # 後期14回目(1/20)
 ## 話題
