@@ -65,7 +65,6 @@
 - [提出用データの作成。.gitignoreの使い方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 - よけとるのプロジェクトチェック
 - 先週未チェックだったプロジェクトチェック
-- 時間があればコードレビュー
 - README.txt, README.md, ポートフォリオ, 提出用プロジェクトで未完成のものを進める
 
 
