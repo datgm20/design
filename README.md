@@ -66,7 +66,6 @@
 
 ### group_c
 - [提出用データの作成。.gitignoreの使い方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
-- 先週未チェックだったプロジェクトチェックの続き
 - 最終週までに目指すこと
   - README.txt, README.md, ポートフォリオ, 提出用プロジェクトを完了させる
   - 卒業制作に向けた企画案を各自考えて、企画概要をGoogleスライドなどにまとめる。最終週に発表予定
