@@ -41,6 +41,7 @@
 
 # 後期16回目(2/3)
 ## 話題
+- [LEGO & Unityの限定版ミニフィギュアをゲットしよう！ ～ゲーム開発コンテスト”BUILD YOUR OWN GAME!”のお知らせ～](https://note.com/unityjapan/n/n2ff9f82bab1a)
 - [NoSeams. 心が折れずにゲーム開発を続ける方法](https://twitter.com/ozora_develop/status/1275949779457957888)
   - ツイートのドキュメントだけではなく、返信や引用ツイートのコメントも必見。ちなみに多くの人がコメントしている「メモ帳のF5」がSlackの作業開始の発言と同じ意味
 
