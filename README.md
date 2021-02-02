@@ -45,7 +45,19 @@
 - [NoSeams. 心が折れずにゲーム開発を続ける方法](https://twitter.com/ozora_develop/status/1275949779457957888)
   - ツイートのドキュメントだけではなく、返信や引用ツイートのコメントも必見。ちなみに多くの人がコメントしている「メモ帳のF5」がSlackの作業開始の発言と同じ意味
 
+## 休みの間の自習について
+- Slackを使い続けること推奨
+  - 自分のチャンネルに「開始」「中断」「再開」「終了」に続けて、作業予定や完了内容を箇条書きにして、あとから作業量や経過を振り返ることができるようにしておく
+  - 質問を書いておいて、学生間で解決したり、場合によっては教員が解答することもあり
+- 講義ページの上の方のリンク
+- [LEGO ”BUILD YOUR OWN GAME!"](https://note.com/unityjapan/n/n2ff9f82bab1a)
+- 1週間ゲームジャムやunityroom、ふりーむ、 https://itch.io/ などへの投稿
+- [cluster](https://cluster.mu/)や[ティラノスクリプト](https://tyrano.jp/)
+- [paizaのスキルチェック](https://paiza.jp/challenges)
+  - 明日やる予定
+
 ## 予定
+
 ### group_aとgroup_b
 - 引き続きグループ学習： https://creator.cluster.mu/ をグループ学習で身につける
 - 作業経過は `#times_氏名` チャンネルへ都度投稿。質問や問題点、完了報告はグループのチャンネルに報告
