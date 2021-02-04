@@ -42,6 +42,14 @@ https://join.slack.com/t/datgm20/shared_invite/zt-l2sbvshy-KtVmbwqtIp_72y7nKQMER
 - [グループ学習](https://github.com/datgm20/design/wiki/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E5%AD%A6%E7%BF%92)： https://creator.cluster.mu/ をグループ学習で身につける。チュートリアルを交代して解説したり、終わらない学生を終わった学生がサポートするなどして、学生主体で使い方を理解していく
 - clusterの調査発表(group_a, group_b) / ポートフォリオと提出データの取りまとめを提出(group_c) / 卒業制作に向けた企画案(全員) <s>2時間ゲームジャム</s>
 
+# 後期17回目(2/10)
+## 予定
+- group_a, group_b
+  - cluster企画会議
+- group_c
+  - まとめた提出用フォルダーをネットドライブに提出
+
+
 # 後期16回目(2/3)
 ## 話題
 - [LEGO & Unityの限定版ミニフィギュアをゲットしよう！ ～ゲーム開発コンテスト”BUILD YOUR OWN GAME!”のお知らせ～](https://note.com/unityjapan/n/n2ff9f82bab1a)
