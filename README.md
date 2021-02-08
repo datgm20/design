@@ -44,12 +44,13 @@ https://join.slack.com/t/datgm20/shared_invite/zt-l2sbvshy-KtVmbwqtIp_72y7nKQMER
 
 # 後期17回目(2/10)
 ## 予定
-- 全体
-  - ポートフォリオページを仕上げる
+- ポートフォリオページを仕上げる
   - 「Project Nyaan」の部分は自分の名前などに変更
   - 動作する作品があれば掲載
   - 動作するものがない場合は、未完成のものでよいので「作品名」「操作説明」「ルール」「スクリーンショット」を案として掲載
   - [完了状態](https://github.com/datgm20/design/wiki/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E6%9C%AA%E5%AE%8C%E4%BA%86%E8%80%85)
+
+## 時間が余ったら
 - group_a, group_b
   - cluster企画会議
 - group_c
