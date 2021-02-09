@@ -43,6 +43,8 @@ https://join.slack.com/t/datgm20/shared_invite/zt-l2sbvshy-KtVmbwqtIp_72y7nKQMER
 - clusterの調査発表(group_a, group_b) / ポートフォリオと提出データの取りまとめを提出(group_c) / 卒業制作に向けた企画案(全員) <s>2時間ゲームジャム</s>
 
 # 後期17回目(2/10)
+## 話題
+- [2/22からUnity1週間ゲームジャム](https://twitter.com/naichilab/status/1359001014162976768)
 
 ## 予定
 - ポートフォリオページを仕上げる
