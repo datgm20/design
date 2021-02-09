@@ -43,12 +43,28 @@ https://join.slack.com/t/datgm20/shared_invite/zt-l2sbvshy-KtVmbwqtIp_72y7nKQMER
 - clusterの調査発表(group_a, group_b) / ポートフォリオと提出データの取りまとめを提出(group_c) / 卒業制作に向けた企画案(全員) <s>2時間ゲームジャム</s>
 
 # 後期17回目(2/10)
+
 ## 予定
 - ポートフォリオページを仕上げる
   - 「Project Nyaan」の部分は自分の名前などに変更
   - 動作する作品があれば掲載
   - 動作するものがない場合は、未完成のものでよいので「作品名」「操作説明」「ルール」「スクリーンショット」を案として掲載
   - [完了状態](https://github.com/datgm20/design/wiki/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E6%9C%AA%E5%AE%8C%E4%BA%86%E8%80%85)
+  - 不要と思われる部分は自らの判断で削除したり、変更する
+
+
+## Webでポートフォリオを作成
+- [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+  - [GitHub Pagesにポートフォリオページを作成する](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
+  - https://www.e-aidem.com/ch/jimocoro/entry/otakana01
+  - [paiza. HTML/CSS入門編](https://paiza.jp/works/html/primer)
+- 参考
+  - [Chomado’s Portfolio (ちょまど)](https://chomado.com/)
+  - [GreeningEx2019の紹介ページ](https://dat18.github.io/works/GreeningEx2019Exe/)
+  - https://itigo-kuma777.ssl-lolipop.jp/
+  - https://yuutea335.hatenablog.com/
+  - [LAPRAS Inc. ポートフォリオ自動作成サービス](https://lapras.com/)
+
 
 ## 時間が余ったら
 - group_a, group_b
@@ -75,7 +91,7 @@ https://join.slack.com/t/datgm20/shared_invite/zt-l2sbvshy-KtVmbwqtIp_72y7nKQMER
 - [paizaのスキルチェック](https://paiza.jp/challenges)
   - 明日やる予定
 
-## 予定
+## 内容
 
 ### group_aとgroup_b
 - 引き続きグループ学習： https://creator.cluster.mu/ をグループ学習で身につける
