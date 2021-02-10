@@ -32,6 +32,7 @@ https://join.slack.com/t/datgm20/shared_invite/zt-l2sbvshy-KtVmbwqtIp_72y7nKQMER
 - [パーティクル](https://docs.google.com/document/d/13vWsBWsutopnjLn1TbvYh8lVDws4ZXi6JmjSfXX6gUw/)
 - [Unityでの操作、オブジェクトの作り方、動かし方、当たり判定](https://docs.google.com/document/d/1nxfDwO0c71HX4H4VlSwoH1ahLiG0cgBxjAQqR-IeOwY/)
 - [スクリーンショットの作成](https://docs.google.com/document/d/1omv9vn84ztpiBCGm4Eyme0eohL4_GqO1SCbUB4LGNTg/)
+- [Unityゲーム開発者ギルドとは](https://qiita.com/organizations/unity-game-dev-guild)
 
 # 授業資料
 - [講義ふり返り動画-11 9/16](https://youtu.be/j1VHnsWVV48)
